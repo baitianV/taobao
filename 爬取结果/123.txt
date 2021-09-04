@@ -1,0 +1,31 @@
+{'seller': '狂人狂123', 'shop_id': '538635727', 'shop_url': '//shop538635727.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '谢凯琳123', 'shop_id': '224487679', 'shop_url': '//shop224487679.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '木子口十123', 'shop_id': '401966433', 'shop_url': '//shop401966433.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '电瓶车雨棚批发', 'shop_id': '105552742', 'shop_url': '//shop105552742.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': 'zenghuiteng123', 'shop_id': '235944119', 'shop_url': '//shop235944119.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '幸福转身123', 'shop_id': '114234175', 'shop_url': '//shop114234175.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '周周白白123', 'shop_id': '353620299', 'shop_url': '//shop353620299.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '大码虾123', 'shop_id': '214130669', 'shop_url': '//shop214130669.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'kellihas', 'shop_id': '145549071', 'shop_url': '//shop145549071.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '123feichongtian', 'shop_id': '280704984', 'shop_url': '//shop280704984.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '小武花花123', 'shop_id': '199135934', 'shop_url': '//shop199135934.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb34926020', 'shop_id': '525075641', 'shop_url': '//shop525075641.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '店铺主营描述为空']}
+{'seller': '不可一世杀手123', 'shop_id': '360536874', 'shop_url': '//shop360536874.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '曾吉伟123', 'shop_id': '406269345', 'shop_url': '//shop406269345.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '汪进文123', 'shop_id': '295651952', 'shop_url': '//shop295651952.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '欢欢xw123', 'shop_id': '345501801', 'shop_url': '//shop345501801.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '张君妍123', 'shop_id': '220275918', 'shop_url': '//shop220275918.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb_7797098', 'shop_id': '290603043', 'shop_url': '//shop290603043.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '糖衣煊123', 'shop_id': '191501146', 'shop_url': '//shop191501146.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb8722773337', 'shop_id': '231401764', 'shop_url': '//shop231401764.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '包子小怪123', 'shop_id': '148514595', 'shop_url': '//shop148514595.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '迎斌斌123', 'shop_id': '542769479', 'shop_url': '//shop542769479.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb0321546878', 'shop_id': '452954912', 'shop_url': '//shop452954912.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb837811455', 'shop_id': '294867838', 'shop_url': '//shop294867838.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '个环境规123', 'shop_id': '489127331', 'shop_url': '//shop489127331.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '曾baobao123', 'shop_id': '229574232', 'shop_url': '//shop229574232.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '123zzx99', 'shop_id': '66366355', 'shop_url': '//shop66366355.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '丽珊小店123', 'shop_id': '223484041', 'shop_url': '//shop223484041.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '123文静4', 'shop_id': '235242337', 'shop_url': '//shop235242337.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb533661535', 'shop_id': '323820084', 'shop_url': '//shop323820084.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'xhcbfff123', 'shop_id': '243901675', 'shop_url': '//shop243901675.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}

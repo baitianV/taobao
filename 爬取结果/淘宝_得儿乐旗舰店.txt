@@ -1,0 +1,18 @@
+{'seller': 'tb797195016', 'shop_id': '521570876', 'shop_url': '//shop521570876.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb097575835', 'shop_id': '232605121', 'shop_url': '//shop232605121.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'hethingthing', 'shop_id': '68487466', 'shop_url': '//shop68487466.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '爱淘byq', 'shop_id': '113118010', 'shop_url': '//shop113118010.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '万三电子商务', 'shop_id': '463487277', 'shop_url': '//shop463487277.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb503912392', 'shop_id': '285751126', 'shop_url': '//shop285751126.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zza321', 'shop_id': '70125306', 'shop_url': '//shop70125306.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '不愿意笑得很99', 'shop_id': '73461771', 'shop_url': '//shop73461771.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'njxzk2012', 'shop_id': '421672773', 'shop_url': '//shop421672773.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '甜心药品15', 'shop_id': '578293547', 'shop_url': '//shop578293547.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'cdms412', 'shop_id': '457675792', 'shop_url': '//shop457675792.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zdqwy_2005', 'shop_id': '186662262', 'shop_url': '//shop186662262.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '志龙味的少女', 'shop_id': '373631038', 'shop_url': '//shop373631038.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 't_1514955823741_073', 'shop_id': '478760035', 'shop_url': '//shop478760035.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '七友九友', 'shop_id': '554461334', 'shop_url': '//shop554461334.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '得得精品店', 'shop_id': '385117218', 'shop_url': '//shop385117218.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '熙佳店铺', 'shop_id': '321690162', 'shop_url': '//shop321690162.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '靓色屋', 'shop_id': '112865432', 'shop_url': '//shop112865432.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}

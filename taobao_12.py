@@ -304,7 +304,7 @@ def check_rank(shopItem):
             for i in shopItem['icons']:
                 if i['title']=='卖家承诺消费者保障服务':
                     res['xiaobao']='有'
-        if (res['type']=='天猫') or (res['type']=='淘宝' and res['xiaobao']=='有'):
+        if res['type']=='淘宝' and res['xiaobao']=='有':
             iconClass=shopItem['shopIcon']['iconClass']
             seller_rank=re.search(r'seller-rank-\d*',iconClass)
             if seller_rank is not None:
@@ -321,9 +321,6 @@ def check_rank(shopItem):
             grade=float(rank_msg['mas'])+float(rank_msg['sas'])+float(rank_msg['cas'])
             if grade<1.0:
                 reason.append('动态评分过低')
-                rank+=1
-            elif grade>=15.0:
-                reason.append('动态评分为满分')
                 rank+=1
     except Exception as e:
         print(e)

@@ -1,0 +1,1 @@
+{'seller': '美喆旗舰店', 'shop_id': '162437178', 'shop_url': '//shop162437178.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}

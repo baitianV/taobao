@@ -1,0 +1,804 @@
+{'seller': '金信丰人家', 'shop_id': '35441921', 'shop_url': '//shop35441921.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '李雨旋', 'shop_id': '33626678', 'shop_url': '//shop33626678.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '临沂金冉照明电器有限公司', 'shop_id': '559698149', 'shop_url': '//shop559698149.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '金凤凰led照明0925', 'shop_id': '368094766', 'shop_url': '//shop368094766.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'czymzm', 'shop_id': '260315102', 'shop_url': '//shop260315102.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '陈cix', 'shop_id': '165824031', 'shop_url': '//shop165824031.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '时代服装店批发', 'shop_id': '149086044', 'shop_url': '//shop149086044.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '威辰led照明', 'shop_id': '143618302', 'shop_url': '//shop143618302.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '海连鑫led', 'shop_id': '121223598', 'shop_url': '//shop121223598.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '段世帅', 'shop_id': '504051591', 'shop_url': '//shop504051591.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '罗新芝', 'shop_id': '107336358', 'shop_url': '//shop107336358.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zhb1231988', 'shop_id': '124475501', 'shop_url': '//shop124475501.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'aa4218779067', 'shop_id': '102549999', 'shop_url': '//shop102549999.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '菲特利斯照明', 'shop_id': '72790883', 'shop_url': '//shop72790883.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zlh60204514144973163', 'shop_id': '100762203', 'shop_url': '//shop100762203.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '诚信瑞意', 'shop_id': '68360726', 'shop_url': '//shop68360726.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '执生很想你', 'shop_id': '116112629', 'shop_url': '//shop116112629.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'shirley788029', 'shop_id': '34728739', 'shop_url': '//shop34728739.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '皖霞灯饰', 'shop_id': '105263022', 'shop_url': '//shop105263022.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '普之光灯饰', 'shop_id': '102346774', 'shop_url': '//shop102346774.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华彩灯饰9', 'shop_id': '103070480', 'shop_url': '//shop103070480.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb9310_20', 'shop_id': '107888526', 'shop_url': '//shop107888526.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '斯瑞达照明', 'shop_id': '72034730', 'shop_url': '//shop72034730.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'sql0377', 'shop_id': '435024191', 'shop_url': '//shop435024191.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '云儿轻轻7', 'shop_id': '68785863', 'shop_url': '//shop68785863.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '品牌代购66', 'shop_id': '65574929', 'shop_url': '//shop65574929.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zhangchaowen228', 'shop_id': '66727444', 'shop_url': '//shop66727444.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'wlt1124', 'shop_id': '62478282', 'shop_url': '//shop62478282.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '莱亿照明', 'shop_id': '62617981', 'shop_url': '//shop62617981.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jiangquanfu', 'shop_id': '62502936', 'shop_url': '//shop62502936.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '简单回忆85', 'shop_id': '67064206', 'shop_url': '//shop67064206.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '何超亮', 'shop_id': '70773860', 'shop_url': '//shop70773860.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'litao5185266', 'shop_id': '59633333', 'shop_url': '//shop59633333.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'gyy0518', 'shop_id': '59556466', 'shop_url': '//shop59556466.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '荔光家居', 'shop_id': '59073385', 'shop_url': '//shop59073385.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'landy621454', 'shop_id': '36577578', 'shop_url': '//shop36577578.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '惊喜临临', 'shop_id': '121381689', 'shop_url': '//shop121381689.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '草莓宝宝527', 'shop_id': '120711754', 'shop_url': '//shop120711754.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '傻傻的我884470050', 'shop_id': '194391493', 'shop_url': '//shop194391493.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '鹏乐灯饰厂家', 'shop_id': '110575685', 'shop_url': '//shop110575685.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb61434987', 'shop_id': '109718363', 'shop_url': '//shop109718363.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '燕8968', 'shop_id': '325225314', 'shop_url': '//shop325225314.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '498015832xmy', 'shop_id': '109566713', 'shop_url': '//shop109566713.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '富贵数码城', 'shop_id': '107780946', 'shop_url': '//shop107780946.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '金兴光电', 'shop_id': '105461523', 'shop_url': '//shop105461523.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '黎浪雄', 'shop_id': '105287513', 'shop_url': '//shop105287513.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '皖霞灯饰', 'shop_id': '105263022', 'shop_url': '//shop105263022.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb9310_20', 'shop_id': '107888526', 'shop_url': '//shop107888526.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '斯瑞达照明', 'shop_id': '72034730', 'shop_url': '//shop72034730.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '云儿轻轻7', 'shop_id': '68785863', 'shop_url': '//shop68785863.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '品牌代购66', 'shop_id': '65574929', 'shop_url': '//shop65574929.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zhangchaowen228', 'shop_id': '66727444', 'shop_url': '//shop66727444.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '莱亿照明', 'shop_id': '62617981', 'shop_url': '//shop62617981.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '荔光家居', 'shop_id': '59073385', 'shop_url': '//shop59073385.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'yanghe88886', 'shop_id': '100650589', 'shop_url': '//shop100650589.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '诚成灯饰888', 'shop_id': '71364701', 'shop_url': '//shop71364701.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'lin01062011', 'shop_id': '67357892', 'shop_url': '//shop67357892.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '莫加斯特', 'shop_id': '67762371', 'shop_url': '//shop67762371.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '唐何杰', 'shop_id': '72965625', 'shop_url': '//shop72965625.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '高高度87', 'shop_id': '67831806', 'shop_url': '//shop67831806.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '丽特儿购物', 'shop_id': '63718239', 'shop_url': '//shop63718239.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '悠久工程照明', 'shop_id': '63203340', 'shop_url': '//shop63203340.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '林林1688', 'shop_id': '57664144', 'shop_url': '//shop57664144.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '时间价值1976', 'shop_id': '57480610', 'shop_url': '//shop57480610.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'guomintwins', 'shop_id': '61434724', 'shop_url': '//shop61434724.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'c7136', 'shop_id': '34933810', 'shop_url': '//shop34933810.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '斯瑞达照明', 'shop_id': '72034730', 'shop_url': '//shop72034730.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '品牌代购66', 'shop_id': '65574929', 'shop_url': '//shop65574929.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zhangchaowen228', 'shop_id': '66727444', 'shop_url': '//shop66727444.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '荔光家居', 'shop_id': '59073385', 'shop_url': '//shop59073385.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '706093618qq', 'shop_id': '155486413', 'shop_url': '//shop155486413.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '精彩明天00878', 'shop_id': '252236726', 'shop_url': '//shop252236726.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '艾深科电子科技有限公司', 'shop_id': '118511033', 'shop_url': '//shop118511033.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '户外照明led灯具', 'shop_id': '118043386', 'shop_url': '//shop118043386.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '泡芙0402', 'shop_id': '211163042', 'shop_url': '//shop211163042.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '十指风灵', 'shop_id': '362591348', 'shop_url': '//shop362591348.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '区氏家具', 'shop_id': '114973847', 'shop_url': '//shop114973847.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'feiyan1398', 'shop_id': '114805075', 'shop_url': '//shop114805075.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zhao931881628', 'shop_id': '113956540', 'shop_url': '//shop113956540.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': 'huaianlzhj031714', 'shop_id': '275001172', 'shop_url': '//shop275001172.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '阳光女孩的脾气', 'shop_id': '126607614', 'shop_url': '//shop126607614.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb_xieqi', 'shop_id': '114850658', 'shop_url': '//shop114850658.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '那些事0705', 'shop_id': '156067813', 'shop_url': '//shop156067813.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'q657080404', 'shop_id': '534057374', 'shop_url': '//shop534057374.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '点亮万家品牌店', 'shop_id': '103251918', 'shop_url': '//shop103251918.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb6690195_2013', 'shop_id': '439631726', 'shop_url': '//shop439631726.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '霓秋乐乐', 'shop_id': '102626477', 'shop_url': '//shop102626477.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '嘉美之光灯饰', 'shop_id': '71708585', 'shop_url': '//shop71708585.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '非主流mm98', 'shop_id': '105287748', 'shop_url': '//shop105287748.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '默默地719361644', 'shop_id': '104052901', 'shop_url': '//shop104052901.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '为爱加温商城', 'shop_id': '67611222', 'shop_url': '//shop67611222.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'lijingrui2009', 'shop_id': '58694706', 'shop_url': '//shop58694706.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '鹏成万里jwm', 'shop_id': '37088059', 'shop_url': '//shop37088059.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb419570417', 'shop_id': '510483419', 'shop_url': '//shop510483419.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '朗帝斯家居企业店', 'shop_id': '130224711', 'shop_url': '//shop130224711.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '萌友i8', 'shop_id': '129997230', 'shop_url': '//shop129997230.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '户外照明led灯具', 'shop_id': '118043386', 'shop_url': '//shop118043386.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '区氏家具', 'shop_id': '114973847', 'shop_url': '//shop114973847.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'feiyan1398', 'shop_id': '114805075', 'shop_url': '//shop114805075.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '阳光女孩的脾气', 'shop_id': '126607614', 'shop_url': '//shop126607614.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb_xieqi', 'shop_id': '114850658', 'shop_url': '//shop114850658.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': 'q657080404', 'shop_id': '534057374', 'shop_url': '//shop534057374.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'yanghe88886', 'shop_id': '100650589', 'shop_url': '//shop100650589.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'lin01062011', 'shop_id': '67357892', 'shop_url': '//shop67357892.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '莫加斯特', 'shop_id': '67762371', 'shop_url': '//shop67762371.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '丽特儿购物', 'shop_id': '63718239', 'shop_url': '//shop63718239.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'guomintwins', 'shop_id': '61434724', 'shop_url': '//shop61434724.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'kiddo1982', 'shop_id': '35109824', 'shop_url': '//shop35109824.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '公牛惠翔翎', 'shop_id': '551723273', 'shop_url': '//shop551723273.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '姜燕章', 'shop_id': '234336521', 'shop_url': '//shop234336521.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '东炫科技照明', 'shop_id': '208177059', 'shop_url': '//shop208177059.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '河北中华照明', 'shop_id': '246043147', 'shop_url': '//shop246043147.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '灯火阑珊企业照明店', 'shop_id': '166812204', 'shop_url': '//shop166812204.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中山市诺维雅照明有限公司', 'shop_id': '247083418', 'shop_url': '//shop247083418.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '韩孟洋hanmengyang', 'shop_id': '523666069', 'shop_url': '//shop523666069.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '形光照明', 'shop_id': '152640184', 'shop_url': '//shop152640184.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '潇弟潇弟', 'shop_id': '117787719', 'shop_url': '//shop117787719.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '百氏阳光品牌店', 'shop_id': '119618365', 'shop_url': '//shop119618365.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'jiangjianxia90', 'shop_id': '119866923', 'shop_url': '//shop119866923.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': 'jan158128', 'shop_id': '219859498', 'shop_url': '//shop219859498.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '默默地719361644', 'shop_id': '104052901', 'shop_url': '//shop104052901.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '为爱加温商城', 'shop_id': '67611222', 'shop_url': '//shop67611222.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'lijingrui2009', 'shop_id': '58694706', 'shop_url': '//shop58694706.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '鹏成万里jwm', 'shop_id': '37088059', 'shop_url': '//shop37088059.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '如谦朗灯具品牌', 'shop_id': '568404959', 'shop_url': '//shop568404959.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '北半球灯具品牌', 'shop_id': '348795501', 'shop_url': '//shop348795501.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '周欢灯具品牌', 'shop_id': '207425309', 'shop_url': '//shop207425309.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '翻两番灯具品牌', 'shop_id': '442133812', 'shop_url': '//shop442133812.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '飞利浦工程照明6674', 'shop_id': '292075483', 'shop_url': '//shop292075483.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '永不放弃767', 'shop_id': '377901423', 'shop_url': '//shop377901423.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '红豆大都店', 'shop_id': '382948703', 'shop_url': '//shop382948703.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '博航商贸行', 'shop_id': '453489596', 'shop_url': '//shop453489596.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'tb57710738', 'shop_id': '397869296', 'shop_url': '//shop397869296.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '湖北宾利照明18071908600', 'shop_id': '452138045', 'shop_url': '//shop452138045.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '尼灿灯具品牌', 'shop_id': '231086725', 'shop_url': '//shop231086725.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '壹禹灯具品牌', 'shop_id': '320075993', 'shop_url': '//shop320075993.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '梦贝奇99', 'shop_id': '590076607', 'shop_url': '//shop590076607.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '江顺家居电器', 'shop_id': '111307729', 'shop_url': '//shop111307729.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '尤金eugene特卖店', 'shop_id': '109503457', 'shop_url': '//shop109503457.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '12浮夸21', 'shop_id': '206049210', 'shop_url': '//shop206049210.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'nkzdwan963', 'shop_id': '63102468', 'shop_url': '//shop63102468.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '诗雅娃妮', 'shop_id': '33952514', 'shop_url': '//shop33952514.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'kiddo1982', 'shop_id': '35109824', 'shop_url': '//shop35109824.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'taobaobao201303', 'shop_id': '218619677', 'shop_url': '//shop218619677.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb008069_01', 'shop_id': '121884543', 'shop_url': '//shop121884543.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb_6936118', 'shop_id': '532999226', 'shop_url': '//shop532999226.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '妃色妖姬', 'shop_id': '106708264', 'shop_url': '//shop106708264.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '雷仕折扣企业集团9889', 'shop_id': '214377204', 'shop_url': '//shop214377204.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '星之光户外亮化照明', 'shop_id': '541010277', 'shop_url': '//shop541010277.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '焕兆关百货店', 'shop_id': '258356942', 'shop_url': '//shop258356942.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '联儒灯具品牌', 'shop_id': '229745021', 'shop_url': '//shop229745021.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '凡碧灯具品牌', 'shop_id': '331213838', 'shop_url': '//shop331213838.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '古镇光耀照明灯饰', 'shop_id': '286857280', 'shop_url': '//shop286857280.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '兴朗灯具配件', 'shop_id': '453977768', 'shop_url': '//shop453977768.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '天喵潘斌', 'shop_id': '302616536', 'shop_url': '//shop302616536.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '有缘情人', 'shop_id': '311664536', 'shop_url': '//shop311664536.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '纵有敌军千万', 'shop_id': '322384427', 'shop_url': '//shop322384427.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分为满分']}
+{'seller': 'tb678874169', 'shop_id': '405012292', 'shop_url': '//shop405012292.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '铭城led', 'shop_id': '103124217', 'shop_url': '//shop103124217.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '如谦朗灯具品牌', 'shop_id': '568404959', 'shop_url': '//shop568404959.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '翻两番灯具品牌', 'shop_id': '442133812', 'shop_url': '//shop442133812.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb866320905', 'shop_id': '312091761', 'shop_url': '//shop312091761.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '五福兴泰', 'shop_id': '270447862', 'shop_url': '//shop270447862.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '时光171', 'shop_id': '299690232', 'shop_url': '//shop299690232.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb105263900', 'shop_id': '299821548', 'shop_url': '//shop299821548.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '欢乐购物yihao', 'shop_id': '151184098', 'shop_url': '//shop151184098.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '刘谢辉00', 'shop_id': '106105854', 'shop_url': '//shop106105854.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '老何5187', 'shop_id': '412635965', 'shop_url': '//shop412635965.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1489251725321_0600', 'shop_id': '487305753', 'shop_url': '//shop487305753.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'led厂家直销15881528111', 'shop_id': '166316858', 'shop_url': '//shop166316858.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '中山市德亮户外照明', 'shop_id': '150487644', 'shop_url': '//shop150487644.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '郑州家明节能技术2016', 'shop_id': '145743679', 'shop_url': '//shop145743679.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '临沭亿隆五金', 'shop_id': '108568834', 'shop_url': '//shop108568834.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'taobaobao201303', 'shop_id': '218619677', 'shop_url': '//shop218619677.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '妃色妖姬', 'shop_id': '106708264', 'shop_url': '//shop106708264.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '新环球led灯饰', 'shop_id': '149343329', 'shop_url': '//shop149343329.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '王连利497859499', 'shop_id': '516831080', 'shop_url': '//shop516831080.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳市鸿通光电有限公司', 'shop_id': '115006243', 'shop_url': '//shop115006243.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '格美达88', 'shop_id': '111189215', 'shop_url': '//shop111189215.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '刘红梅8606', 'shop_id': '111755241', 'shop_url': '//shop111755241.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'abc13524338835', 'shop_id': '106057056', 'shop_url': '//shop106057056.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb77805897', 'shop_id': '106902085', 'shop_url': '//shop106902085.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '郭晓宇132', 'shop_id': '72596410', 'shop_url': '//shop72596410.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '梅妹数码', 'shop_id': '59675775', 'shop_url': '//shop59675775.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '光标照明户外灯具', 'shop_id': '475300723', 'shop_url': '//shop475300723.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'led吉利', 'shop_id': '285957632', 'shop_url': '//shop285957632.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '清黎109485219', 'shop_id': '73320779', 'shop_url': '//shop73320779.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '文鑫照明', 'shop_id': '162523027', 'shop_url': '//shop162523027.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 't_1502630465027_0251', 'shop_id': '576362712', 'shop_url': '//shop576362712.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '深圳企艺照明有限公司1号店', 'shop_id': '125266171', 'shop_url': '//shop125266171.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '天之城城', 'shop_id': '269272926', 'shop_url': '//shop269272926.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'shenguangshuai1990', 'shop_id': '111108325', 'shop_url': '//shop111108325.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '懒人晒晒太阳', 'shop_id': '109388783', 'shop_url': '//shop109388783.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '小夏85347451', 'shop_id': '137891628', 'shop_url': '//shop137891628.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '香港新能源有限公司', 'shop_id': '100102488', 'shop_url': '//shop100102488.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '业芯led之家', 'shop_id': '108461623', 'shop_url': '//shop108461623.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb74805_44', 'shop_id': '72743499', 'shop_url': '//shop72743499.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '恒钢光电科技', 'shop_id': '68068229', 'shop_url': '//shop68068229.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '嘉明光电abc', 'shop_id': '68319989', 'shop_url': '//shop68319989.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'yefeifei11', 'shop_id': '66508520', 'shop_url': '//shop66508520.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'doris_86', 'shop_id': '61966593', 'shop_url': '//shop61966593.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '建筑与工程', 'shop_id': '246355919', 'shop_url': '//shop246355919.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '翰文工厂', 'shop_id': '198200009', 'shop_url': '//shop198200009.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '新环球led灯饰', 'shop_id': '149343329', 'shop_url': '//shop149343329.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳市鸿通光电有限公司', 'shop_id': '115006243', 'shop_url': '//shop115006243.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb77805897', 'shop_id': '106902085', 'shop_url': '//shop106902085.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '郭晓宇132', 'shop_id': '72596410', 'shop_url': '//shop72596410.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '莫简熙55', 'shop_id': '110702083', 'shop_url': '//shop110702083.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'dw一家家居', 'shop_id': '72967937', 'shop_url': '//shop72967937.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'huchensi1992', 'shop_id': '102412986', 'shop_url': '//shop102412986.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'qq27300205', 'shop_id': '438006798', 'shop_url': '//shop438006798.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '欧尚led', 'shop_id': '67807705', 'shop_url': '//shop67807705.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '吹星如雨', 'shop_id': '71255086', 'shop_url': '//shop71255086.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ym371096043', 'shop_id': '104019730', 'shop_url': '//shop104019730.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '区健德', 'shop_id': '65388158', 'shop_url': '//shop65388158.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '无理比有理大声', 'shop_id': '70099121', 'shop_url': '//shop70099121.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '毅毅俊', 'shop_id': '70406116', 'shop_url': '//shop70406116.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'mao0668', 'shop_id': '35324027', 'shop_url': '//shop35324027.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '甜甜蜜蜜666888', 'shop_id': '576064733', 'shop_url': '//shop576064733.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1499723431616_022', 'shop_id': '348960302', 'shop_url': '//shop348960302.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '文鑫照明', 'shop_id': '162523027', 'shop_url': '//shop162523027.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '懒人晒晒太阳', 'shop_id': '109388783', 'shop_url': '//shop109388783.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '业芯led之家', 'shop_id': '108461623', 'shop_url': '//shop108461623.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb74805_44', 'shop_id': '72743499', 'shop_url': '//shop72743499.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'yefeifei11', 'shop_id': '66508520', 'shop_url': '//shop66508520.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'doris_86', 'shop_id': '61966593', 'shop_url': '//shop61966593.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jmq994', 'shop_id': '36382098', 'shop_url': '//shop36382098.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '晶歌户外照明总店', 'shop_id': '238618751', 'shop_url': '//shop238618751.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '双月电子有限公司', 'shop_id': '208697094', 'shop_url': '//shop208697094.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1492299207331_0130', 'shop_id': '199199431', 'shop_url': '//shop199199431.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1500782602003_0986', 'shop_id': '276900463', 'shop_url': '//shop276900463.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '远佳鸿照明有限公司', 'shop_id': '159601217', 'shop_url': '//shop159601217.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '乙星辰', 'shop_id': '155937675', 'shop_url': '//shop155937675.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '凯瑞led灯饰', 'shop_id': '137627447', 'shop_url': '//shop137627447.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '天涯海角19921203', 'shop_id': '139932861', 'shop_url': '//shop139932861.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'dw一家家居', 'shop_id': '72967937', 'shop_url': '//shop72967937.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '欧尚led', 'shop_id': '67807705', 'shop_url': '//shop67807705.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '吹星如雨', 'shop_id': '71255086', 'shop_url': '//shop71255086.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ym371096043', 'shop_id': '104019730', 'shop_url': '//shop104019730.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '区健德', 'shop_id': '65388158', 'shop_url': '//shop65388158.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '无理比有理大声', 'shop_id': '70099121', 'shop_url': '//shop70099121.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '毅毅俊', 'shop_id': '70406116', 'shop_url': '//shop70406116.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'mao0668', 'shop_id': '35324027', 'shop_url': '//shop35324027.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '灯具货仓', 'shop_id': '143285931', 'shop_url': '//shop143285931.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '春天里的兵兵', 'shop_id': '117377197', 'shop_url': '//shop117377197.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '炬歌520', 'shop_id': '249633121', 'shop_url': '//shop249633121.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '世纪末的无聊消遣0906', 'shop_id': '120713166', 'shop_url': '//shop120713166.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'gb20141019', 'shop_id': '114477088', 'shop_url': '//shop114477088.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '慕天照明直销店', 'shop_id': '112766849', 'shop_url': '//shop112766849.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '中山百珂灯饰', 'shop_id': '106656652', 'shop_url': '//shop106656652.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华美通讯配件', 'shop_id': '102978275', 'shop_url': '//shop102978275.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '华业照明技术', 'shop_id': '73384746', 'shop_url': '//shop73384746.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宝正光度', 'shop_id': '70875940', 'shop_url': '//shop70875940.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '谷全锦', 'shop_id': '66946321', 'shop_url': '//shop66946321.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'homeyo818308', 'shop_id': '62486652', 'shop_url': '//shop62486652.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jsstthxq', 'shop_id': '68872696', 'shop_url': '//shop68872696.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '宁波创业者', 'shop_id': '60309013', 'shop_url': '//shop60309013.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'liyanzhenatyou', 'shop_id': '63384317', 'shop_url': '//shop63384317.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'ljh2622', 'shop_id': '35797809', 'shop_url': '//shop35797809.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'fzjuan2015', 'shop_id': '144614602', 'shop_url': '//shop144614602.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '光之容器', 'shop_id': '125440310', 'shop_url': '//shop125440310.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'mo15877253443', 'shop_id': '142202916', 'shop_url': '//shop142202916.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '9鱼小鱼', 'shop_id': '185824062', 'shop_url': '//shop185824062.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '晶雨阁水晶', 'shop_id': '105483447', 'shop_url': '//shop105483447.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '玉龙灯饰灯具', 'shop_id': '72770795', 'shop_url': '//shop72770795.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '润一灯饰', 'shop_id': '63204550', 'shop_url': '//shop63204550.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '苹果bu酸', 'shop_id': '36909320', 'shop_url': '//shop36909320.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '相知风雨中', 'shop_id': '33863856', 'shop_url': '//shop33863856.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '雷士照明灯饰1', 'shop_id': '195379640', 'shop_url': '//shop195379640.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'gb20141019', 'shop_id': '114477088', 'shop_url': '//shop114477088.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '慕天照明直销店', 'shop_id': '112766849', 'shop_url': '//shop112766849.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '华美通讯配件', 'shop_id': '102978275', 'shop_url': '//shop102978275.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '华业照明技术', 'shop_id': '73384746', 'shop_url': '//shop73384746.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宁波创业者', 'shop_id': '60309013', 'shop_url': '//shop60309013.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'liyanzhenatyou', 'shop_id': '63384317', 'shop_url': '//shop63384317.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'ljh2622', 'shop_id': '35797809', 'shop_url': '//shop35797809.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jmq994', 'shop_id': '36382098', 'shop_url': '//shop36382098.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '勤丘灯具品牌', 'shop_id': '524369852', 'shop_url': '//shop524369852.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '群昱灯具品牌', 'shop_id': '168202641', 'shop_url': '//shop168202641.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '锐霏欣灯具品牌', 'shop_id': '401982710', 'shop_url': '//shop401982710.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '灯具之家8', 'shop_id': '383676933', 'shop_url': '//shop383676933.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '太阳能灯1832', 'shop_id': '566988622', 'shop_url': '//shop566988622.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '派陆百货店', 'shop_id': '364472573', 'shop_url': '//shop364472573.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '雅暖灯具品牌', 'shop_id': '445551081', 'shop_url': '//shop445551081.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb049041625', 'shop_id': '369904722', 'shop_url': '//shop369904722.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'wendy042188', 'shop_id': '62461123', 'shop_url': '//shop62461123.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jqlkm', 'shop_id': '64963835', 'shop_url': '//shop64963835.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '广东粤耀户外照明', 'shop_id': '429566271', 'shop_url': '//shop429566271.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '耀城照明科技有公司', 'shop_id': '294445365', 'shop_url': '//shop294445365.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宏升照明', 'shop_id': '71449451', 'shop_url': '//shop71449451.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ledxiong88', 'shop_id': '65058610', 'shop_url': '//shop65058610.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'yzcchun', 'shop_id': '33499072', 'shop_url': '//shop33499072.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '9鱼小鱼', 'shop_id': '185824062', 'shop_url': '//shop185824062.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'czsandyli', 'shop_id': '114228854', 'shop_url': '//shop114228854.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '众宏照明', 'shop_id': '109603500', 'shop_url': '//shop109603500.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'led户外景观照明', 'shop_id': '124636369', 'shop_url': '//shop124636369.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'zhf601702', 'shop_id': '155791938', 'shop_url': '//shop155791938.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '亚磊照明88', 'shop_id': '100399307', 'shop_url': '//shop100399307.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '振华照明灯饰', 'shop_id': '392559020', 'shop_url': '//shop392559020.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '艳艳日用商贸', 'shop_id': '205916673', 'shop_url': '//shop205916673.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '海星浪声', 'shop_id': '293595483', 'shop_url': '//shop293595483.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'dcd8899', 'shop_id': '64932967', 'shop_url': '//shop64932967.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '甜帆灯具品牌', 'shop_id': '219585491', 'shop_url': '//shop219585491.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb622484921', 'shop_id': '270605451', 'shop_url': '//shop270605451.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb35629304', 'shop_id': '457551395', 'shop_url': '//shop457551395.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '超越灯具品牌', 'shop_id': '577291066', 'shop_url': '//shop577291066.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '勤丘灯具品牌', 'shop_id': '524369852', 'shop_url': '//shop524369852.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '锐霏欣灯具品牌', 'shop_id': '401982710', 'shop_url': '//shop401982710.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '灯具之家8', 'shop_id': '383676933', 'shop_url': '//shop383676933.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '太阳能灯1832', 'shop_id': '566988622', 'shop_url': '//shop566988622.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '派陆百货店', 'shop_id': '364472573', 'shop_url': '//shop364472573.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'tb966539901', 'shop_id': '474763761', 'shop_url': '//shop474763761.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中山市鑫阳灯饰有限公司10', 'shop_id': '244777385', 'shop_url': '//shop244777385.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '鑫泰盛电子分店', 'shop_id': '373679120', 'shop_url': '//shop373679120.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '欢大爷574', 'shop_id': '309866364', 'shop_url': '//shop309866364.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '正鑫商贸商务', 'shop_id': '331232302', 'shop_url': '//shop331232302.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lt13415368160', 'shop_id': '155840808', 'shop_url': '//shop155840808.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'cynthia户外照明', 'shop_id': '113557363', 'shop_url': '//shop113557363.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zhu916162944', 'shop_id': '112506899', 'shop_url': '//shop112506899.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xxdpy0210', 'shop_id': '109430091', 'shop_url': '//shop109430091.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '燎原家居照明', 'shop_id': '107619964', 'shop_url': '//shop107619964.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '东圳星电子', 'shop_id': '334795872', 'shop_url': '//shop334795872.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '煜美照明', 'shop_id': '478346996', 'shop_url': '//shop478346996.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'long369254514', 'shop_id': '385104794', 'shop_url': '//shop385104794.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'chnian123', 'shop_id': '361521450', 'shop_url': '//shop361521450.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '颜书标', 'shop_id': '68203839', 'shop_url': '//shop68203839.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': 'wds7229912', 'shop_id': '107379657', 'shop_url': '//shop107379657.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '海海神话', 'shop_id': '218026045', 'shop_url': '//shop218026045.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '美目盼兮77', 'shop_id': '172717740', 'shop_url': '//shop172717740.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'led户外景观照明', 'shop_id': '124636369', 'shop_url': '//shop124636369.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '幽幽光火', 'shop_id': '101266944', 'shop_url': '//shop101266944.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '龙凤之光', 'shop_id': '72006652', 'shop_url': '//shop72006652.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zheng121049116', 'shop_id': '67326132', 'shop_url': '//shop67326132.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '安凡之家', 'shop_id': '105381974', 'shop_url': '//shop105381974.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '常州楚耀照明电器', 'shop_id': '208133397', 'shop_url': '//shop208133397.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '新悦户外照明', 'shop_id': '123123699', 'shop_url': '//shop123123699.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '博星led', 'shop_id': '117599983', 'shop_url': '//shop117599983.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb91781051', 'shop_id': '220290238', 'shop_url': '//shop220290238.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '百川灯饰01', 'shop_id': '105551747', 'shop_url': '//shop105551747.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '六月水鱼', 'shop_id': '144625128', 'shop_url': '//shop144625128.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'guangyu0988', 'shop_id': '72974533', 'shop_url': '//shop72974533.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宝驰达光电', 'shop_id': '66878204', 'shop_url': '//shop66878204.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'cynthia户外照明', 'shop_id': '113557363', 'shop_url': '//shop113557363.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '樊贤明88', 'shop_id': '108582066', 'shop_url': '//shop108582066.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zengyingli628628', 'shop_id': '104022323', 'shop_url': '//shop104022323.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '5288hanchenfeng', 'shop_id': '101463906', 'shop_url': '//shop101463906.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '乐淘特产百货', 'shop_id': '60452480', 'shop_url': '//shop60452480.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zky288288', 'shop_id': '426257464', 'shop_url': '//shop426257464.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '云中歌照明电器', 'shop_id': '340123759', 'shop_url': '//shop340123759.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '周二黑子', 'shop_id': '155091362', 'shop_url': '//shop155091362.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'evanteng55', 'shop_id': '103468982', 'shop_url': '//shop103468982.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '幽幽光火', 'shop_id': '101266944', 'shop_url': '//shop101266944.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '龙凤之光', 'shop_id': '72006652', 'shop_url': '//shop72006652.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zheng121049116', 'shop_id': '67326132', 'shop_url': '//shop67326132.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '玲就家具商行', 'shop_id': '376116674', 'shop_url': '//shop376116674.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '基春灯具品牌', 'shop_id': '518102374', 'shop_url': '//shop518102374.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb7951374802', 'shop_id': '276095543', 'shop_url': '//shop276095543.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '夏桂灯具品牌', 'shop_id': '309691769', 'shop_url': '//shop309691769.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '好宜家好货', 'shop_id': '196940006', 'shop_url': '//shop196940006.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '掌纹原创服饰', 'shop_id': '103763777', 'shop_url': '//shop103763777.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '远方的人9116', 'shop_id': '63412957', 'shop_url': '//shop63412957.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '亚明照明灯具店', 'shop_id': '168227879', 'shop_url': '//shop168227879.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '愤怒→的→情人', 'shop_id': '195765067', 'shop_url': '//shop195765067.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳市多美多照明有限公司', 'shop_id': '142134746', 'shop_url': '//shop142134746.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '5288hanchenfeng', 'shop_id': '101463906', 'shop_url': '//shop101463906.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '乐淘特产百货', 'shop_id': '60452480', 'shop_url': '//shop60452480.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '国际家纺家居品牌城', 'shop_id': '111617232', 'shop_url': '//shop111617232.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tl13861012850', 'shop_id': '107150243', 'shop_url': '//shop107150243.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '而言396', 'shop_id': '112806620', 'shop_url': '//shop112806620.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'chen_lixia幸福', 'shop_id': '101358913', 'shop_url': '//shop101358913.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'bsqtking', 'shop_id': '69495839', 'shop_url': '//shop69495839.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '轻舞飞扬288970', 'shop_id': '118331669', 'shop_url': '//shop118331669.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'udeyhduk', 'shop_id': '348034287', 'shop_url': '//shop348034287.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '长期以来1314', 'shop_id': '427718961', 'shop_url': '//shop427718961.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '唐兆国7762', 'shop_id': '125845964', 'shop_url': '//shop125845964.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zhangdanwei8', 'shop_id': '129820272', 'shop_url': '//shop129820272.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'shunyingtan', 'shop_id': '125092159', 'shop_url': '//shop125092159.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '带头哥的企业', 'shop_id': '174017943', 'shop_url': '//shop174017943.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '家居床品生活馆', 'shop_id': '106536154', 'shop_url': '//shop106536154.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '金太阳照明', 'shop_id': '590820942', 'shop_url': '//shop590820942.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '风中草0605', 'shop_id': '119599247', 'shop_url': '//shop119599247.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '一一集团986', 'shop_id': '211395308', 'shop_url': '//shop211395308.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '天喵商城644', 'shop_id': '188573514', 'shop_url': '//shop188573514.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'zilin93', 'shop_id': '66199207', 'shop_url': '//shop66199207.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '张文杰_22', 'shop_id': '64985118', 'shop_url': '//shop64985118.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '胡全清', 'shop_id': '61000785', 'shop_url': '//shop61000785.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'fqyflj', 'shop_id': '65120265', 'shop_url': '//shop65120265.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '德鑫光电', 'shop_id': '222463336', 'shop_url': '//shop222463336.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '小妃灯饰', 'shop_id': '372520137', 'shop_url': '//shop372520137.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '斯语照明8817', 'shop_id': '437837737', 'shop_url': '//shop437837737.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xqdxwl123', 'shop_id': '126458852', 'shop_url': '//shop126458852.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳市百万电子', 'shop_id': '125272515', 'shop_url': '//shop125272515.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xuzenghong1983', 'shop_id': '140547786', 'shop_url': '//shop140547786.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '妮妮丫丫1113', 'shop_id': '108011372', 'shop_url': '//shop108011372.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'hua810307', 'shop_id': '114437452', 'shop_url': '//shop114437452.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'show丶寿', 'shop_id': '524821830', 'shop_url': '//shop524821830.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中山联球照明', 'shop_id': '535305862', 'shop_url': '//shop535305862.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '而言396', 'shop_id': '112806620', 'shop_url': '//shop112806620.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '上海徐总', 'shop_id': '101906839', 'shop_url': '//shop101906839.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jxfh0998', 'shop_id': '71247641', 'shop_url': '//shop71247641.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb78302619', 'shop_id': '562370524', 'shop_url': '//shop562370524.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'youqianrenxing123456', 'shop_id': '390700630', 'shop_url': '//shop390700630.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '钜优亮企业店', 'shop_id': '130752765', 'shop_url': '//shop130752765.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '电影一样生活', 'shop_id': '124968556', 'shop_url': '//shop124968556.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '新科家居', 'shop_id': '115273291', 'shop_url': '//shop115273291.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lovening729', 'shop_id': '115148468', 'shop_url': '//shop115148468.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '青篱ri', 'shop_id': '123949961', 'shop_url': '//shop123949961.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '福特led科技照明', 'shop_id': '108927891', 'shop_url': '//shop108927891.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '精通照明01', 'shop_id': '105215696', 'shop_url': '//shop105215696.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '大江光电', 'shop_id': '140036352', 'shop_url': '//shop140036352.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '刁梦玲1205', 'shop_id': '115102848', 'shop_url': '//shop115102848.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '张xiao楠9', 'shop_id': '110955395', 'shop_url': '//shop110955395.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ccui7', 'shop_id': '70879497', 'shop_url': '//shop70879497.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '上海里浦照明', 'shop_id': '69713400', 'shop_url': '//shop69713400.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '现代洁具商城企业折扣店', 'shop_id': '353416832', 'shop_url': '//shop353416832.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '李举个栗子', 'shop_id': '589681859', 'shop_url': '//shop589681859.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '日悦灯具品牌', 'shop_id': '243817523', 'shop_url': '//shop243817523.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '雅彩照明', 'shop_id': '369518528', 'shop_url': '//shop369518528.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '古人说国际', 'shop_id': '265169970', 'shop_url': '//shop265169970.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '柱子照明', 'shop_id': '127003468', 'shop_url': '//shop127003468.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb43105381', 'shop_id': '279113529', 'shop_url': '//shop279113529.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '亚肯灯具厂yk', 'shop_id': '70353343', 'shop_url': '//shop70353343.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'kukuboy123', 'shop_id': '64125005', 'shop_url': '//shop64125005.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '萍生活', 'shop_id': '107409868', 'shop_url': '//shop107409868.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中山小秀秀', 'shop_id': '100108824', 'shop_url': '//shop100108824.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '上海徐总', 'shop_id': '101906839', 'shop_url': '//shop101906839.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jxfh0998', 'shop_id': '71247641', 'shop_url': '//shop71247641.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xx西西20', 'shop_id': '131007632', 'shop_url': '//shop131007632.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'buliyuan00', 'shop_id': '109346683', 'shop_url': '//shop109346683.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '东东灯具电器总汇', 'shop_id': '69542008', 'shop_url': '//shop69542008.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'hshla', 'shop_id': '100536307', 'shop_url': '//shop100536307.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zhangtangxia00', 'shop_id': '101580742', 'shop_url': '//shop101580742.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '晶亮科技照明', 'shop_id': '102380697', 'shop_url': '//shop102380697.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb8614444866', 'shop_id': '313174891', 'shop_url': '//shop313174891.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '全国第一009', 'shop_id': '489592854', 'shop_url': '//shop489592854.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'rt灬hope', 'shop_id': '141520250', 'shop_url': '//shop141520250.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'cici奶茶', 'shop_id': '60300878', 'shop_url': '//shop60300878.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '广东瑞达照明', 'shop_id': '225724889', 'shop_url': '//shop225724889.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb2729863121', 'shop_id': '206592726', 'shop_url': '//shop206592726.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '欢乐购购物ok', 'shop_id': '207452337', 'shop_url': '//shop207452337.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '都纳入百货店', 'shop_id': '382599723', 'shop_url': '//shop382599723.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '抖音精品企业折扣直销店', 'shop_id': '377418070', 'shop_url': '//shop377418070.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '精品创意时尚企业折扣店', 'shop_id': '322821909', 'shop_url': '//shop322821909.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '爱尚咖啡152', 'shop_id': '155038637', 'shop_url': '//shop155038637.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '宏康知我家', 'shop_id': '114004319', 'shop_url': '//shop114004319.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '广告投影灯', 'shop_id': '107327550', 'shop_url': '//shop107327550.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '白菜紫金瓜', 'shop_id': '66220903', 'shop_url': '//shop66220903.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 't_1496564386235_03', 'shop_id': '540945209', 'shop_url': '//shop540945209.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '常州灯红照明电器有限公司', 'shop_id': '151354356', 'shop_url': '//shop151354356.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'dggyb888', 'shop_id': '72841646', 'shop_url': '//shop72841646.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '欧朗福照明', 'shop_id': '469922350', 'shop_url': '//shop469922350.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '柏克莱led照明', 'shop_id': '526235083', 'shop_url': '//shop526235083.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '52凯子1314', 'shop_id': '109935861', 'shop_url': '//shop109935861.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '曾军彪', 'shop_id': '311798180', 'shop_url': '//shop311798180.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '无锡光泰玻璃制品有限公司', 'shop_id': '113494934', 'shop_url': '//shop113494934.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'guojuxin信', 'shop_id': '101873757', 'shop_url': '//shop101873757.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '韩城部落8989', 'shop_id': '304518438', 'shop_url': '//shop304518438.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '欧普照明008', 'shop_id': '73318561', 'shop_url': '//shop73318561.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '中山市古镇星宏灯饰厂', 'shop_id': '318003071', 'shop_url': '//shop318003071.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'seven兔流行色', 'shop_id': '109517565', 'shop_url': '//shop109517565.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '海鑫达光电科技', 'shop_id': '205591999', 'shop_url': '//shop205591999.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '茉莉花花999', 'shop_id': '300802784', 'shop_url': '//shop300802784.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '浅蓝式回忆', 'shop_id': '148640945', 'shop_url': '//shop148640945.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '新华世灯饰led', 'shop_id': '112061167', 'shop_url': '//shop112061167.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '夜明珠0760', 'shop_id': '61328011', 'shop_url': '//shop61328011.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '金诚五金批发', 'shop_id': '137061527', 'shop_url': '//shop137061527.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '下个24小时', 'shop_id': '112510088', 'shop_url': '//shop112510088.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'min68951189', 'shop_id': '106985831', 'shop_url': '//shop106985831.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '绿源816', 'shop_id': '104223997', 'shop_url': '//shop104223997.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'chinaaoo', 'shop_id': '66861745', 'shop_url': '//shop66861745.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '专业批发led灯具', 'shop_id': '106919308', 'shop_url': '//shop106919308.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '晶晶时尚灯饰', 'shop_id': '104126959', 'shop_url': '//shop104126959.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '毛善贵', 'shop_id': '36505971', 'shop_url': '//shop36505971.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '鸿熙灯饰有限公司', 'shop_id': '258348512', 'shop_url': '//shop258348512.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '招财鱼缸', 'shop_id': '106856712', 'shop_url': '//shop106856712.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'huzehua214', 'shop_id': '66816607', 'shop_url': '//shop66816607.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '太子1011', 'shop_id': '123162988', 'shop_url': '//shop123162988.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '星光节能', 'shop_id': '61025001', 'shop_url': '//shop61025001.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb5452521464', 'shop_id': '287127847', 'shop_url': '//shop287127847.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb0499846_00', 'shop_id': '103510133', 'shop_url': '//shop103510133.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zhu13462025241', 'shop_id': '64294454', 'shop_url': '//shop64294454.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jian0801', 'shop_id': '36534250', 'shop_url': '//shop36534250.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '景观灯具厂', 'shop_id': '152295579', 'shop_url': '//shop152295579.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'gb20141025', 'shop_id': '114528557', 'shop_url': '//shop114528557.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '盛世led照明0766', 'shop_id': '203503760', 'shop_url': '//shop203503760.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '明键晶晶东东飞飞', 'shop_id': '104127573', 'shop_url': '//shop104127573.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '家宝照明有限公司', 'shop_id': '73455971', 'shop_url': '//shop73455971.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '小乔流水5843', 'shop_id': '205376325', 'shop_url': '//shop205376325.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '凯庭工程照明', 'shop_id': '151403725', 'shop_url': '//shop151403725.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '思晴水晶灯饰', 'shop_id': '126363831', 'shop_url': '//shop126363831.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '雨晴雨桐8', 'shop_id': '130084527', 'shop_url': '//shop130084527.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jinchao_90', 'shop_id': '112219854', 'shop_url': '//shop112219854.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '妙妙小苹果0208', 'shop_id': '120521320', 'shop_url': '//shop120521320.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb687544494', 'shop_id': '354525989', 'shop_url': '//shop354525989.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '常州盟久灯具有限公司', 'shop_id': '257578197', 'shop_url': '//shop257578197.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '耐科斯贸易', 'shop_id': '432250613', 'shop_url': '//shop432250613.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '马原祥', 'shop_id': '143053510', 'shop_url': '//shop143053510.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '黑蚁照明', 'shop_id': '302864576', 'shop_url': '//shop302864576.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '西瓜1111111', 'shop_id': '353676731', 'shop_url': '//shop353676731.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '专业户外led亮', 'shop_id': '69632831', 'shop_url': '//shop69632831.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '杭州满旺五金经营部', 'shop_id': '68166808', 'shop_url': '//shop68166808.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'blacksunmoon', 'shop_id': '66749340', 'shop_url': '//shop66749340.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb347901040', 'shop_id': '593837736', 'shop_url': '//shop593837736.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '艺晶科技', 'shop_id': '101694758', 'shop_url': '//shop101694758.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ke4511166', 'shop_id': '61743036', 'shop_url': '//shop61743036.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '泰亨led照明', 'shop_id': '72647550', 'shop_url': '//shop72647550.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'hao1352266', 'shop_id': '114924889', 'shop_url': '//shop114924889.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '绍强贸易', 'shop_id': '252003079', 'shop_url': '//shop252003079.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '天喵淘和', 'shop_id': '391985271', 'shop_url': '//shop391985271.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '孔必真', 'shop_id': '65124770', 'shop_url': '//shop65124770.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '紫茶插花', 'shop_id': '69855016', 'shop_url': '//shop69855016.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '双胜19841203wj', 'shop_id': '103356363', 'shop_url': '//shop103356363.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华艺康照明', 'shop_id': '72439557', 'shop_url': '//shop72439557.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb5096401', 'shop_id': '109438590', 'shop_url': '//shop109438590.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'wj2275', 'shop_id': '64854431', 'shop_url': '//shop64854431.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中山市胜光饰家', 'shop_id': '467435461', 'shop_url': '//shop467435461.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '光之魅照明', 'shop_id': '137496752', 'shop_url': '//shop137496752.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '好再来灯饰98', 'shop_id': '69525353', 'shop_url': '//shop69525353.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '江苏兆昌防爆电器', 'shop_id': '300282308', 'shop_url': '//shop300282308.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '罗浩展飞', 'shop_id': '140109045', 'shop_url': '//shop140109045.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'w13680289525', 'shop_id': '119908349', 'shop_url': '//shop119908349.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb448402005', 'shop_id': '195488538', 'shop_url': '//shop195488538.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'abc8709888', 'shop_id': '112036443', 'shop_url': '//shop112036443.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '盘万联', 'shop_id': '137546113', 'shop_url': '//shop137546113.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华灯初上丶飞利浦', 'shop_id': '106965722', 'shop_url': '//shop106965722.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'yangjianfeng029', 'shop_id': '181420955', 'shop_url': '//shop181420955.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '企业店2233', 'shop_id': '539285640', 'shop_url': '//shop539285640.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'guzhengaiyu', 'shop_id': '60650663', 'shop_url': '//shop60650663.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '克强5220', 'shop_id': '156001463', 'shop_url': '//shop156001463.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'changyun0625', 'shop_id': '324604161', 'shop_url': '//shop324604161.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '烁光灯饰a', 'shop_id': '155045392', 'shop_url': '//shop155045392.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '前方照明_山东店', 'shop_id': '108688493', 'shop_url': '//shop108688493.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宝贝蛋子_007', 'shop_id': '59952622', 'shop_url': '//shop59952622.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宝莱拉88', 'shop_id': '144951729', 'shop_url': '//shop144951729.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '铿55555', 'shop_id': '70698878', 'shop_url': '//shop70698878.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': 'zhuogengwen', 'shop_id': '67534162', 'shop_url': '//shop67534162.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '青潘儿', 'shop_id': '281958805', 'shop_url': '//shop281958805.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳宇阳科技有限公司', 'shop_id': '395798667', 'shop_url': '//shop395798667.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '亚莱斯', 'shop_id': '442909870', 'shop_url': '//shop442909870.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lmj123455', 'shop_id': '152036017', 'shop_url': '//shop152036017.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '羽田照明', 'shop_id': '136858019', 'shop_url': '//shop136858019.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb8189027586', 'shop_id': '337439879', 'shop_url': '//shop337439879.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb6549097891', 'shop_id': '404572312', 'shop_url': '//shop404572312.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '星凡灯具品牌', 'shop_id': '550354809', 'shop_url': '//shop550354809.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '潘奎商贸行', 'shop_id': '224542664', 'shop_url': '//shop224542664.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '洛水霓裳5', 'shop_id': '361595472', 'shop_url': '//shop361595472.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '飞利莆旗艇店', 'shop_id': '551329882', 'shop_url': '//shop551329882.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '天通照明', 'shop_id': '117885610', 'shop_url': '//shop117885610.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'kitty天空裳', 'shop_id': '102814024', 'shop_url': '//shop102814024.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '最后卖掉了', 'shop_id': '70950566', 'shop_url': '//shop70950566.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jiang121049116', 'shop_id': '129320997', 'shop_url': '//shop129320997.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '李显锋', 'shop_id': '66228293', 'shop_url': '//shop66228293.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '金52050', 'shop_id': '375872588', 'shop_url': '//shop375872588.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '佛山市永裕照明有限公司', 'shop_id': '463112145', 'shop_url': '//shop463112145.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '晟耀灯饰', 'shop_id': '208287511', 'shop_url': '//shop208287511.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '风淡云轻197987', 'shop_id': '148611388', 'shop_url': '//shop148611388.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb60505166', 'shop_id': '594486632', 'shop_url': '//shop594486632.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lingling958803277', 'shop_id': '130132485', 'shop_url': '//shop130132485.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '好的照明灯饰', 'shop_id': '106542582', 'shop_url': '//shop106542582.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'wds7219912', 'shop_id': '68861848', 'shop_url': '//shop68861848.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '爱自己爱涵涵', 'shop_id': '452525157', 'shop_url': '//shop452525157.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb194393572', 'shop_id': '463845841', 'shop_url': '//shop463845841.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '黄huangchiqiang', 'shop_id': '390490207', 'shop_url': '//shop390490207.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb406262128', 'shop_id': '232938472', 'shop_url': '//shop232938472.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '常州辉煌灯具厂', 'shop_id': '109719635', 'shop_url': '//shop109719635.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '冥王之外', 'shop_id': '114817803', 'shop_url': '//shop114817803.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb1624903_2011', 'shop_id': '109258205', 'shop_url': '//shop109258205.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '丨丶richard3162', 'shop_id': '105038975', 'shop_url': '//shop105038975.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '林毅科技照明', 'shop_id': '135722340', 'shop_url': '//shop135722340.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '优之家照明', 'shop_id': '235994534', 'shop_url': '//shop235994534.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '尚冰郁杨敏', 'shop_id': '284092714', 'shop_url': '//shop284092714.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '花样年华jiangxwtaobao', 'shop_id': '581270404', 'shop_url': '//shop581270404.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '环球led灯饰', 'shop_id': '140061301', 'shop_url': '//shop140061301.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '振华灯饰2017', 'shop_id': '423249497', 'shop_url': '//shop423249497.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '染指那抹伤201181143', 'shop_id': '297830311', 'shop_url': '//shop297830311.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '葫芦娃丶9720', 'shop_id': '521326304', 'shop_url': '//shop521326304.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '伊藤子', 'shop_id': '525502437', 'shop_url': '//shop525502437.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '追光暖阳6688', 'shop_id': '283651334', 'shop_url': '//shop283651334.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb587210181', 'shop_id': '215706562', 'shop_url': '//shop215706562.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '宇泽户外工程照明', 'shop_id': '475378550', 'shop_url': '//shop475378550.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '诺伊灯饰厂', 'shop_id': '217196794', 'shop_url': '//shop217196794.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '郭晓宇2000', 'shop_id': '104613227', 'shop_url': '//shop104613227.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '工程照明37', 'shop_id': '151719813', 'shop_url': '//shop151719813.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xmzojee', 'shop_id': '546452178', 'shop_url': '//shop546452178.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '福临全饰', 'shop_id': '582013500', 'shop_url': '//shop582013500.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '灯饰品牌企业店08', 'shop_id': '552783190', 'shop_url': '//shop552783190.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '中山市欧缔朗灯饰厂', 'shop_id': '246076769', 'shop_url': '//shop246076769.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '一家灯火照明', 'shop_id': '283216140', 'shop_url': '//shop283216140.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '黄燕香121726', 'shop_id': '150679591', 'shop_url': '//shop150679591.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '猫眼娃娃77', 'shop_id': '65953165', 'shop_url': '//shop65953165.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '神啊救救我_1986', 'shop_id': '149042929', 'shop_url': '//shop149042929.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '时空角度', 'shop_id': '66664476', 'shop_url': '//shop66664476.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '晨光灯饰工厂店', 'shop_id': '410245066', 'shop_url': '//shop410245066.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '腾益照明企业店', 'shop_id': '213014910', 'shop_url': '//shop213014910.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '90相约', 'shop_id': '171161946', 'shop_url': '//shop171161946.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '其辉港澳代购', 'shop_id': '108082397', 'shop_url': '//shop108082397.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '鸿泉led灯饰照明', 'shop_id': '113358690', 'shop_url': '//shop113358690.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华夏民族2012', 'shop_id': '113229206', 'shop_url': '//shop113229206.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '中山市辰佑照明有限公司', 'shop_id': '211401912', 'shop_url': '//shop211401912.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '天喵商城十二', 'shop_id': '354605708', 'shop_url': '//shop354605708.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'hanfeizhuanmai', 'shop_id': '498403332', 'shop_url': '//shop498403332.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '一臣两面', 'shop_id': '243609022', 'shop_url': '//shop243609022.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lap7758258', 'shop_id': '129300014', 'shop_url': '//shop129300014.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '中山市东晟照明有限公司', 'shop_id': '207391125', 'shop_url': '//shop207391125.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '汇庆商贸', 'shop_id': '463349056', 'shop_url': '//shop463349056.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'liriver1688', 'shop_id': '590126725', 'shop_url': '//shop590126725.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '欧日朗', 'shop_id': '101362470', 'shop_url': '//shop101362470.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'yuekato', 'shop_id': '108967872', 'shop_url': '//shop108967872.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华邦光电', 'shop_id': '124555616', 'shop_url': '//shop124555616.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '梧州农夫', 'shop_id': '109615651', 'shop_url': '//shop109615651.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '漫随1122', 'shop_id': '423692515', 'shop_url': '//shop423692515.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '泥巴分享', 'shop_id': '63378824', 'shop_url': '//shop63378824.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '闪闪贸易店', 'shop_id': '304279337', 'shop_url': '//shop304279337.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '诚栖照明', 'shop_id': '176780933', 'shop_url': '//shop176780933.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '星光鑫鑫照明灯饰', 'shop_id': '136683415', 'shop_url': '//shop136683415.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '酷豪男装', 'shop_id': '116477023', 'shop_url': '//shop116477023.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '1669723403晖', 'shop_id': '116838888', 'shop_url': '//shop116838888.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '杭州市聚炫光电有限公司', 'shop_id': '151462641', 'shop_url': '//shop151462641.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'jst868688', 'shop_id': '210260027', 'shop_url': '//shop210260027.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1490514335880_09', 'shop_id': '423354389', 'shop_url': '//shop423354389.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '辞梦风痕', 'shop_id': '102948162', 'shop_url': '//shop102948162.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '欧美拓照明', 'shop_id': '495199619', 'shop_url': '//shop495199619.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '朱氏万伟业', 'shop_id': '324720024', 'shop_url': '//shop324720024.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '龙彩照明', 'shop_id': '155578404', 'shop_url': '//shop155578404.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '记着从前', 'shop_id': '497491455', 'shop_url': '//shop497491455.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'tb_6012516', 'shop_id': '128619288', 'shop_url': '//shop128619288.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb774464190', 'shop_id': '194700665', 'shop_url': '//shop194700665.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '东莞企烨', 'shop_id': '453452480', 'shop_url': '//shop453452480.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '星辉燎原灯具照明', 'shop_id': '206598496', 'shop_url': '//shop206598496.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ajdj_87', 'shop_id': '148397877', 'shop_url': '//shop148397877.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '开着挖土机挖宝藏', 'shop_id': '149785310', 'shop_url': '//shop149785310.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'aesthic', 'shop_id': '111990378', 'shop_url': '//shop111990378.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '骏达科技55', 'shop_id': '143486630', 'shop_url': '//shop143486630.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '耀能工程照明', 'shop_id': '598802969', 'shop_url': '//shop598802969.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '淘之妖妖_8888', 'shop_id': '521345712', 'shop_url': '//shop521345712.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分为满分']}
+{'seller': '蜡笔爱小新1988', 'shop_id': '113445210', 'shop_url': '//shop113445210.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '卓越照明电器', 'shop_id': '148496875', 'shop_url': '//shop148496875.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '金源保健商城', 'shop_id': '110982288', 'shop_url': '//shop110982288.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '新源照明led大功率', 'shop_id': '233448959', 'shop_url': '//shop233448959.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '15603002838啦', 'shop_id': '558004608', 'shop_url': '//shop558004608.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb219618888', 'shop_id': '352619548', 'shop_url': '//shop352619548.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'a376736803', 'shop_id': '119889260', 'shop_url': '//shop119889260.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lian惜子', 'shop_id': '113793099', 'shop_url': '//shop113793099.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'lwd0817', 'shop_id': '350101851', 'shop_url': '//shop350101851.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'yjy19750223', 'shop_id': '149133290', 'shop_url': '//shop149133290.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '文杰开创莲', 'shop_id': '470464404', 'shop_url': '//shop470464404.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb85188634', 'shop_id': '128111288', 'shop_url': '//shop128111288.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '刘岭峰x', 'shop_id': '509215937', 'shop_url': '//shop509215937.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb82665973', 'shop_id': '535370542', 'shop_url': '//shop535370542.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '频湖工程照明', 'shop_id': '115926835', 'shop_url': '//shop115926835.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '和睦亿家家纺', 'shop_id': '105332735', 'shop_url': '//shop105332735.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '枫叶萧萧008', 'shop_id': '73114969', 'shop_url': '//shop73114969.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '书豪媚', 'shop_id': '125253177', 'shop_url': '//shop125253177.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '江门金马士户外亮化', 'shop_id': '343886608', 'shop_url': '//shop343886608.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'cheyu1103', 'shop_id': '69727792', 'shop_url': '//shop69727792.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '飞蒲司照明', 'shop_id': '189919593', 'shop_url': '//shop189919593.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1524550447156_0962', 'shop_id': '499621271', 'shop_url': '//shop499621271.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'gaoanjie2010', 'shop_id': '128653540', 'shop_url': '//shop128653540.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'llpo0909', 'shop_id': '113784595', 'shop_url': '//shop113784595.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '龙景淘', 'shop_id': '166156637', 'shop_url': '//shop166156637.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '希奇照明', 'shop_id': '141102062', 'shop_url': '//shop141102062.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '郑州家明节能1218', 'shop_id': '117076547', 'shop_url': '//shop117076547.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '广域照明有限公司', 'shop_id': '421058093', 'shop_url': '//shop421058093.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'wangrui20100809', 'shop_id': '62420255', 'shop_url': '//shop62420255.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '小贵子兰兰99', 'shop_id': '533029896', 'shop_url': '//shop533029896.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1493618628297_078', 'shop_id': '192125006', 'shop_url': '//shop192125006.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '美钰嘉照明科技有限公司', 'shop_id': '135348461', 'shop_url': '//shop135348461.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '艾美亮照明有限公司', 'shop_id': '499189522', 'shop_url': '//shop499189522.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb胡新文2010', 'shop_id': '111666264', 'shop_url': '//shop111666264.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '乔朗斯led照明', 'shop_id': '101772593', 'shop_url': '//shop101772593.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '玲玲光电科技', 'shop_id': '67544108', 'shop_url': '//shop67544108.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '金琪铭led照明', 'shop_id': '166230119', 'shop_url': '//shop166230119.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '源景照明', 'shop_id': '115325138', 'shop_url': '//shop115325138.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'dengshi001', 'shop_id': '66937479', 'shop_url': '//shop66937479.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '1923亚明工程照明', 'shop_id': '112621720', 'shop_url': '//shop112621720.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': 'tb686091819', 'shop_id': '498723349', 'shop_url': '//shop498723349.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'a13637531326', 'shop_id': '154838579', 'shop_url': '//shop154838579.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '无锡亚飞特照明有限公司', 'shop_id': '251681202', 'shop_url': '//shop251681202.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '我是杰杰大锅', 'shop_id': '229390608', 'shop_url': '//shop229390608.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'cjsljj15968964627', 'shop_id': '141459720', 'shop_url': '//shop141459720.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'qq1003982474', 'shop_id': '100868766', 'shop_url': '//shop100868766.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb257833648', 'shop_id': '259342386', 'shop_url': '//shop259342386.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xuehai0901', 'shop_id': '101789678', 'shop_url': '//shop101789678.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '顾一贸易店', 'shop_id': '308294129', 'shop_url': '//shop308294129.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '全优照明', 'shop_id': '129746581', 'shop_url': '//shop129746581.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb2523438023', 'shop_id': '333532813', 'shop_url': '//shop333532813.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb1392993206', 'shop_id': '382531175', 'shop_url': '//shop382531175.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'sy19940112', 'shop_id': '364026560', 'shop_url': '//shop364026560.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '来我家吧0', 'shop_id': '60619972', 'shop_url': '//shop60619972.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '包不同·潮流箱包', 'shop_id': '284909575', 'shop_url': '//shop284909575.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '万东黑猫', 'shop_id': '464821137', 'shop_url': '//shop464821137.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '山谦照明科技', 'shop_id': '374952695', 'shop_url': '//shop374952695.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中国千象照明', 'shop_id': '124816456', 'shop_url': '//shop124816456.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '木槿照明', 'shop_id': '325983926', 'shop_url': '//shop325983926.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '森柏莱照明', 'shop_id': '101821365', 'shop_url': '//shop101821365.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ran850516', 'shop_id': '409400171', 'shop_url': '//shop409400171.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '会飞的鱼很是', 'shop_id': '151319249', 'shop_url': '//shop151319249.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '聚点光源', 'shop_id': '137627634', 'shop_url': '//shop137627634.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '科帝斯灯饰厂家直销', 'shop_id': '193014355', 'shop_url': '//shop193014355.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '江苏辉业照明工程', 'shop_id': '238798725', 'shop_url': '//shop238798725.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '淘淘牛仔chn', 'shop_id': '116894099', 'shop_url': '//shop116894099.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '曙恒灯饰', 'shop_id': '106830001', 'shop_url': '//shop106830001.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '芳芳2媛媛', 'shop_id': '67466977', 'shop_url': '//shop67466977.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中国灯饰城857', 'shop_id': '256335615', 'shop_url': '//shop256335615.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '昔日的雨露', 'shop_id': '61521770', 'shop_url': '//shop61521770.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'ling88888', 'shop_id': '318772815', 'shop_url': '//shop318772815.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'sh小姐02413158', 'shop_id': '182328270', 'shop_url': '//shop182328270.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb69914197', 'shop_id': '113043717', 'shop_url': '//shop113043717.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '奇异果户外照明', 'shop_id': '357871687', 'shop_url': '//shop357871687.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '668购物车', 'shop_id': '401091811', 'shop_url': '//shop401091811.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '旺仔牛奶大罐装', 'shop_id': '176722454', 'shop_url': '//shop176722454.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '常州康锐照明', 'shop_id': '179680143', 'shop_url': '//shop179680143.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '龙腾led照明厂', 'shop_id': '141727191', 'shop_url': '//shop141727191.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '品优灯饰科技工厂', 'shop_id': '221551938', 'shop_url': '//shop221551938.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'chenkete1990', 'shop_id': '468970192', 'shop_url': '//shop468970192.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '风流的小飞', 'shop_id': '334672609', 'shop_url': '//shop334672609.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'joltey', 'shop_id': '66352188', 'shop_url': '//shop66352188.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'vipfang520', 'shop_id': '61323253', 'shop_url': '//shop61323253.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳市金蝌蚪照明有限公司', 'shop_id': '141800984', 'shop_url': '//shop141800984.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'godfirst_001', 'shop_id': '36533936', 'shop_url': '//shop36533936.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '明智藏宝阁', 'shop_id': '71857301', 'shop_url': '//shop71857301.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '麦芒的蜜糖', 'shop_id': '307805949', 'shop_url': '//shop307805949.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '品优灯饰', 'shop_id': '565287756', 'shop_url': '//shop565287756.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb607299513', 'shop_id': '461573754', 'shop_url': '//shop461573754.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'long254806', 'shop_id': '266395311', 'shop_url': '//shop266395311.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't丶小鸟依人', 'shop_id': '135467481', 'shop_url': '//shop135467481.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '珍果小七', 'shop_id': '405105786', 'shop_url': '//shop405105786.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'c13824425520', 'shop_id': '363386933', 'shop_url': '//shop363386933.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '何道卫浴商贸城', 'shop_id': '343179120', 'shop_url': '//shop343179120.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '美家智慧科技商城', 'shop_id': '409113098', 'shop_url': '//shop409113098.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1482363426561_0359', 'shop_id': '215262965', 'shop_url': '//shop215262965.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb4538358291', 'shop_id': '558288389', 'shop_url': '//shop558288389.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '豪宇灯饰工厂直销', 'shop_id': '545737880', 'shop_url': '//shop545737880.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '茗ming1', 'shop_id': '111810131', 'shop_url': '//shop111810131.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'drchen328', 'shop_id': '129807215', 'shop_url': '//shop129807215.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'led灯饰1688', 'shop_id': '218832961', 'shop_url': '//shop218832961.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '愿望2017', 'shop_id': '545145300', 'shop_url': '//shop545145300.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '兆昌电子', 'shop_id': '125576395', 'shop_url': '//shop125576395.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '远佳鸿', 'shop_id': '118546439', 'shop_url': '//shop118546439.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '江苏菲凡灯饰有限公司', 'shop_id': '404103436', 'shop_url': '//shop404103436.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '好又亮灯饰批98', 'shop_id': '102742678', 'shop_url': '//shop102742678.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '灯饰e购', 'shop_id': '101380235', 'shop_url': '//shop101380235.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '诺昕灯饰有限公司', 'shop_id': '405352545', 'shop_url': '//shop405352545.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '爱奇艺灯馆', 'shop_id': '150839358', 'shop_url': '//shop150839358.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '区氏灯饰批发', 'shop_id': '111575223', 'shop_url': '//shop111575223.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '明铭灯饰', 'shop_id': '531585244', 'shop_url': '//shop531585244.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '百变神光', 'shop_id': '72884906', 'shop_url': '//shop72884906.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '常州名利普科技有限公司', 'shop_id': '575947873', 'shop_url': '//shop575947873.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳市天科迪照明有限公司', 'shop_id': '599568895', 'shop_url': '//shop599568895.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '大型展厅', 'shop_id': '278143270', 'shop_url': '//shop278143270.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'lwb9660', 'shop_id': '128956171', 'shop_url': '//shop128956171.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '亚明户外灯具', 'shop_id': '124387186', 'shop_url': '//shop124387186.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '福运宝贝327', 'shop_id': '124389425', 'shop_url': '//shop124389425.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '000小雨点001', 'shop_id': '109753584', 'shop_url': '//shop109753584.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '伊伊艺艺吧', 'shop_id': '390501161', 'shop_url': '//shop390501161.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '华豫led灯饰厂', 'shop_id': '406525800', 'shop_url': '//shop406525800.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'ksh789', 'shop_id': '104682813', 'shop_url': '//shop104682813.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '欧泰led照明', 'shop_id': '140643926', 'shop_url': '//shop140643926.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xuchaohong2010', 'shop_id': '102121038', 'shop_url': '//shop102121038.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb6648713273', 'shop_id': '375207865', 'shop_url': '//shop375207865.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'czlcb', 'shop_id': '70177177', 'shop_url': '//shop70177177.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '新乐丰照明有限公司', 'shop_id': '148863543', 'shop_url': '//shop148863543.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '君莫汀', 'shop_id': '320584783', 'shop_url': '//shop320584783.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb829279464', 'shop_id': '433324450', 'shop_url': '//shop433324450.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb561518516', 'shop_id': '112530449', 'shop_url': '//shop112530449.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb778598719', 'shop_id': '386632247', 'shop_url': '//shop386632247.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '佳阳极光', 'shop_id': '109198247', 'shop_url': '//shop109198247.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb2063271786', 'shop_id': '506948492', 'shop_url': '//shop506948492.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': 't_1518341229832_0964', 'shop_id': '201841133', 'shop_url': '//shop201841133.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '格吉思照明', 'shop_id': '123838645', 'shop_url': '//shop123838645.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '奥特斯照明店', 'shop_id': '127347010', 'shop_url': '//shop127347010.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '乔朗斯科技有限公司', 'shop_id': '144471453', 'shop_url': '//shop144471453.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '阑珊照明', 'shop_id': '114111649', 'shop_url': '//shop114111649.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '方磊530', 'shop_id': '105035235', 'shop_url': '//shop105035235.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '曹美玉cmy', 'shop_id': '512959227', 'shop_url': '//shop512959227.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb87959335', 'shop_id': '181715452', 'shop_url': '//shop181715452.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb7646322', 'shop_id': '145332695', 'shop_url': '//shop145332695.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '启虹小淘屋', 'shop_id': '71512731', 'shop_url': '//shop71512731.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '中展led照明', 'shop_id': '69323635', 'shop_url': '//shop69323635.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '奥普工程照明', 'shop_id': '467043962', 'shop_url': '//shop467043962.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zs18938729030', 'shop_id': '235710416', 'shop_url': '//shop235710416.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '豪光科技2', 'shop_id': '108730496', 'shop_url': '//shop108730496.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深影灯饰', 'shop_id': '238404343', 'shop_url': '//shop238404343.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '丽星晨光壁灯中山古镇厂家', 'shop_id': '321778696', 'shop_url': '//shop321778696.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 't_1478355037061_0', 'shop_id': '369200063', 'shop_url': '//shop369200063.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'winmainapi', 'shop_id': '63598018', 'shop_url': '//shop63598018.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '炫威照明', 'shop_id': '163234917', 'shop_url': '//shop163234917.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '小丫爱小帅', 'shop_id': '70520541', 'shop_url': '//shop70520541.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'tb595973669', 'shop_id': '473603411', 'shop_url': '//shop473603411.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '陆水群', 'shop_id': '113197878', 'shop_url': '//shop113197878.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'led灯具批发商', 'shop_id': '73415665', 'shop_url': '//shop73415665.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '户外室内灯具店', 'shop_id': '123671921', 'shop_url': '//shop123671921.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'tb781164040', 'shop_id': '319474041', 'shop_url': '//shop319474041.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '左手牵右岸', 'shop_id': '163219411', 'shop_url': '//shop163219411.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '威尼特灯饰', 'shop_id': '101805228', 'shop_url': '//shop101805228.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'dan219573', 'shop_id': '125107116', 'shop_url': '//shop125107116.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '艾雨淇', 'shop_id': '110359749', 'shop_url': '//shop110359749.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '千圣灯饰', 'shop_id': '585772529', 'shop_url': '//shop585772529.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '长隆照明有限公司', 'shop_id': '543257034', 'shop_url': '//shop543257034.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '深圳鑫光特照明', 'shop_id': '149383546', 'shop_url': '//shop149383546.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '家居灯配师', 'shop_id': '118026812', 'shop_url': '//shop118026812.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '星绚照明', 'shop_id': '150239256', 'shop_url': '//shop150239256.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '志峰商贸168', 'shop_id': '236251416', 'shop_url': '//shop236251416.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '清风的栩栩', 'shop_id': '274260563', 'shop_url': '//shop274260563.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}

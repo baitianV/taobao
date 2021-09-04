@@ -1,0 +1,8 @@
+{'seller': '得儿乐旗舰店', 'shop_id': '208981388', 'shop_url': '//shop208981388.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '哲瀚医疗器械专营店', 'shop_id': '184036223', 'shop_url': '//shop184036223.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'infantino旗舰店', 'shop_id': '184792251', 'shop_url': '//shop184792251.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '薰妃堂旗舰店', 'shop_id': '151915949', 'shop_url': '//shop151915949.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '小火车旗舰店', 'shop_id': '298662608', 'shop_url': '//shop298662608.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '尹萱旗舰店', 'shop_id': '226056298', 'shop_url': '//shop226056298.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '禾辞旗舰店', 'shop_id': '442330243', 'shop_url': '//shop442330243.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '纽乐母婴旗舰店', 'shop_id': '478266009', 'shop_url': '//shop478266009.taobao.com', 'type': '天猫', 'xiaobao': '无', 'rank': 1, 'reason': ['店铺主营描述为空']}

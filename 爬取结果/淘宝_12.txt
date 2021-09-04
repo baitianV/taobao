@@ -1,0 +1,39 @@
+{'seller': '爱疯牛', 'shop_id': '68105056', 'shop_url': '//shop68105056.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '好好先生数码屋', 'shop_id': '534697809', 'shop_url': '//shop534697809.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '王二妞0924', 'shop_id': '233101841', 'shop_url': '//shop233101841.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '蓝牙手表专场', 'shop_id': '111814411', 'shop_url': '//shop111814411.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '上海宇睿食品', 'shop_id': '507307884', 'shop_url': '//shop507307884.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '最后的战役啊', 'shop_id': '452051642', 'shop_url': '//shop452051642.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '上海诚达制冷设备', 'shop_id': '427563384', 'shop_url': '//shop427563384.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '撒旦0天使0', 'shop_id': '126455539', 'shop_url': '//shop126455539.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '韩国惠人原汁机舰旗店', 'shop_id': '512932290', 'shop_url': '//shop512932290.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '小小红0222', 'shop_id': '118343796', 'shop_url': '//shop118343796.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '某m0u某', 'shop_id': '107809185', 'shop_url': '//shop107809185.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '来一杯芬达', 'shop_id': '295269438', 'shop_url': '//shop295269438.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'naohxiaobai', 'shop_id': '70729244', 'shop_url': '//shop70729244.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '广州美的厨卫代理', 'shop_id': '68164151', 'shop_url': '//shop68164151.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '噼噼啪啪的哈', 'shop_id': '104128023', 'shop_url': '//shop104128023.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '慕尚女孩', 'shop_id': '147993580', 'shop_url': '//shop147993580.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '最近3558人交易成功', 'shop_id': '111399766', 'shop_url': '//shop111399766.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '手机_小秘', 'shop_id': '256950433', 'shop_url': '//shop256950433.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '大家好18942429064', 'shop_id': '120989109', 'shop_url': '//shop120989109.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'lixuefeng880401', 'shop_id': '108125928', 'shop_url': '//shop108125928.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '开心就好6492', 'shop_id': '109005378', 'shop_url': '//shop109005378.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'caoliang328', 'shop_id': '33934155', 'shop_url': '//shop33934155.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '重庆宏发电子', 'shop_id': '70863359', 'shop_url': '//shop70863359.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '兽普炙果蔬店', 'shop_id': '377042337', 'shop_url': '//shop377042337.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '杨旭玉', 'shop_id': '68460431', 'shop_url': '//shop68460431.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '精美灯具城元', 'shop_id': '526191801', 'shop_url': '//shop526191801.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '抖抖猫儿', 'shop_id': '111762083', 'shop_url': '//shop111762083.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '潮尚_艾佐范', 'shop_id': '104635431', 'shop_url': '//shop104635431.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'tb57519872', 'shop_id': '339371298', 'shop_url': '//shop339371298.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': 'tb904482_2012', 'shop_id': '112459301', 'shop_url': '//shop112459301.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '金檀科技数码店', 'shop_id': '462976612', 'shop_url': '//shop462976612.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '东领尚城', 'shop_id': '103377697', 'shop_url': '//shop103377697.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '健康云南2018', 'shop_id': '210110962', 'shop_url': '//shop210110962.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': '慈桦医院', 'shop_id': '188596704', 'shop_url': '//shop188596704.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '上海呗允食品有限公司', 'shop_id': '159333884', 'shop_url': '//shop159333884.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '小小的舞', 'shop_id': '59535146', 'shop_url': '//shop59535146.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '三合医药连锁有限公司', 'shop_id': '272016665', 'shop_url': '//shop272016665.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '品牌机批发店', 'shop_id': '59243881', 'shop_url': '//shop59243881.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '小土豆购物网', 'shop_id': '70759152', 'shop_url': '//shop70759152.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}

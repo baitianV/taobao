@@ -1,0 +1,107 @@
+{'seller': '燕尾服的潇洒', 'shop_id': '239684079', 'shop_url': '//shop239684079.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'liuchunlian889', 'shop_id': '196926864', 'shop_url': '//shop196926864.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zhumingjing889', 'shop_id': '126339273', 'shop_url': '//shop126339273.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': 'hanlidong889', 'shop_id': '549467516', 'shop_url': '//shop549467516.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '慧慧的店889', 'shop_id': '332270934', 'shop_url': '//shop332270934.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'huangzl889', 'shop_id': '457089686', 'shop_url': '//shop457089686.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'yanzimeng_520', 'shop_id': '230438845', 'shop_url': '//shop230438845.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '魅力神殿', 'shop_id': '106338884', 'shop_url': '//shop106338884.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'aikeke889', 'shop_id': '546860736', 'shop_url': '//shop546860736.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'wutao889', 'shop_id': '216660382', 'shop_url': '//shop216660382.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '涔涔20100', 'shop_id': '136295658', 'shop_url': '//shop136295658.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '为爱变乖889', 'shop_id': '65118741', 'shop_url': '//shop65118741.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'yaolu889', 'shop_id': '144393085', 'shop_url': '//shop144393085.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zyz889', 'shop_id': '442856515', 'shop_url': '//shop442856515.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '潘多拉889', 'shop_id': '367238767', 'shop_url': '//shop367238767.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'chenfengye889', 'shop_id': '488046343', 'shop_url': '//shop488046343.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 't_1556551209212_0583', 'shop_id': '369576674', 'shop_url': '//shop369576674.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '宇宙无敌超级帅哥123591374', 'shop_id': '537148380', 'shop_url': '//shop537148380.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '严vvbbvgh', 'shop_id': '508898228', 'shop_url': '//shop508898228.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'yang13827354768', 'shop_id': '185434660', 'shop_url': '//shop185434660.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'kright889', 'shop_id': '568806150', 'shop_url': '//shop568806150.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '依一889', 'shop_id': '223220541', 'shop_url': '//shop223220541.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '邬淑华889wsh', 'shop_id': '159497906', 'shop_url': '//shop159497906.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '幸福李889', 'shop_id': '137888387', 'shop_url': '//shop137888387.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '狮子猫889', 'shop_id': '230282023', 'shop_url': '//shop230282023.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '谦谦君子exclusive', 'shop_id': '168305741', 'shop_url': '//shop168305741.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '四方格勇者', 'shop_id': '156007137', 'shop_url': '//shop156007137.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '信誉百分百889', 'shop_id': '143320405', 'shop_url': '//shop143320405.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zengxiaomei889', 'shop_id': '347916825', 'shop_url': '//shop347916825.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zuoqiyue889', 'shop_id': '116971608', 'shop_url': '//shop116971608.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '很划算不划算', 'shop_id': '150966164', 'shop_url': '//shop150966164.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '过分煽情', 'shop_id': '387033501', 'shop_url': '//shop387033501.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '肥肥猫889', 'shop_id': '540627990', 'shop_url': '//shop540627990.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'taotao屋889', 'shop_id': '366946761', 'shop_url': '//shop366946761.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '燕尾服的潇洒', 'shop_id': '239684079', 'shop_url': '//shop239684079.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'liuchunlian889', 'shop_id': '196926864', 'shop_url': '//shop196926864.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zhumingjing889', 'shop_id': '126339273', 'shop_url': '//shop126339273.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': 'hanlidong889', 'shop_id': '549467516', 'shop_url': '//shop549467516.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '慧慧的店889', 'shop_id': '332270934', 'shop_url': '//shop332270934.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'huangzl889', 'shop_id': '457089686', 'shop_url': '//shop457089686.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'yanzimeng_520', 'shop_id': '230438845', 'shop_url': '//shop230438845.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '魅力神殿', 'shop_id': '106338884', 'shop_url': '//shop106338884.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'aikeke889', 'shop_id': '546860736', 'shop_url': '//shop546860736.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'wutao889', 'shop_id': '216660382', 'shop_url': '//shop216660382.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '涔涔20100', 'shop_id': '136295658', 'shop_url': '//shop136295658.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '为爱变乖889', 'shop_id': '65118741', 'shop_url': '//shop65118741.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'yaolu889', 'shop_id': '144393085', 'shop_url': '//shop144393085.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zyz889', 'shop_id': '442856515', 'shop_url': '//shop442856515.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '潘多拉889', 'shop_id': '367238767', 'shop_url': '//shop367238767.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'chenfengye889', 'shop_id': '488046343', 'shop_url': '//shop488046343.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'galen889', 'shop_id': '151659488', 'shop_url': '//shop151659488.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'tb68635171267', 'shop_id': '236360568', 'shop_url': '//shop236360568.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '玉兰盛商贸', 'shop_id': '454515081', 'shop_url': '//shop454515081.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '波司登冬装', 'shop_id': '193118958', 'shop_url': '//shop193118958.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': 'tb652667874', 'shop_id': '490506035', 'shop_url': '//shop490506035.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '吉品889', 'shop_id': '422597664', 'shop_url': '//shop422597664.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': '6668w889', 'shop_id': '508787511', 'shop_url': '//shop508787511.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '王丽娜lina889', 'shop_id': '348530446', 'shop_url': '//shop348530446.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'ali20150818', 'shop_id': '150004605', 'shop_url': '//shop150004605.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '淘笑淘889', 'shop_id': '177707151', 'shop_url': '//shop177707151.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '景宏889', 'shop_id': '115321160', 'shop_url': '//shop115321160.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '图图淘淘图图图图', 'shop_id': '480036281', 'shop_url': '//shop480036281.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'wuhongliang889', 'shop_id': '492223987', 'shop_url': '//shop492223987.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'yuyan_889', 'shop_id': '169786105', 'shop_url': '//shop169786105.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '戒烟戒酒戒网889', 'shop_id': '114070807', 'shop_url': '//shop114070807.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '上官木兰8', 'shop_id': '472029911', 'shop_url': '//shop472029911.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'wyftcg889', 'shop_id': '114205845', 'shop_url': '//shop114205845.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'xiang890618', 'shop_id': '240319041', 'shop_url': '//shop240319041.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '889月圆', 'shop_id': '369357855', 'shop_url': '//shop369357855.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'yandayu889', 'shop_id': '159464582', 'shop_url': '//shop159464582.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '真真5258', 'shop_id': '367835878', 'shop_url': '//shop367835878.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'lucialavie', 'shop_id': '322755145', 'shop_url': '//shop322755145.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '时尚林雅阁', 'shop_id': '126300240', 'shop_url': '//shop126300240.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '军盈889', 'shop_id': '104947710', 'shop_url': '//shop104947710.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '杭州根哥汽配有限公司', 'shop_id': '179208015', 'shop_url': '//shop179208015.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '何素霞889', 'shop_id': '322422845', 'shop_url': '//shop322422845.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'sz13510575731', 'shop_id': '126005481', 'shop_url': '//shop126005481.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '爱太恩abc', 'shop_id': '141499865', 'shop_url': '//shop141499865.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '自由人生889', 'shop_id': '568882917', 'shop_url': '//shop568882917.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'sushaohua889', 'shop_id': '67058575', 'shop_url': '//shop67058575.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'zhujiaolong889', 'shop_id': '374741769', 'shop_url': '//shop374741769.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '燕尾服的潇洒', 'shop_id': '239684079', 'shop_url': '//shop239684079.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'liuchunlian889', 'shop_id': '196926864', 'shop_url': '//shop196926864.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zhumingjing889', 'shop_id': '126339273', 'shop_url': '//shop126339273.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': 'hanlidong889', 'shop_id': '549467516', 'shop_url': '//shop549467516.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '慧慧的店889', 'shop_id': '332270934', 'shop_url': '//shop332270934.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'huangzl889', 'shop_id': '457089686', 'shop_url': '//shop457089686.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'yanzimeng_520', 'shop_id': '230438845', 'shop_url': '//shop230438845.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '魅力神殿', 'shop_id': '106338884', 'shop_url': '//shop106338884.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'aikeke889', 'shop_id': '546860736', 'shop_url': '//shop546860736.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'wutao889', 'shop_id': '216660382', 'shop_url': '//shop216660382.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '涔涔20100', 'shop_id': '136295658', 'shop_url': '//shop136295658.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '为爱变乖889', 'shop_id': '65118741', 'shop_url': '//shop65118741.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'yaolu889', 'shop_id': '144393085', 'shop_url': '//shop144393085.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'zyz889', 'shop_id': '442856515', 'shop_url': '//shop442856515.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '潘多拉889', 'shop_id': '367238767', 'shop_url': '//shop367238767.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'chenfengye889', 'shop_id': '488046343', 'shop_url': '//shop488046343.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '阿莫奈889', 'shop_id': '111718734', 'shop_url': '//shop111718734.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': 'mijian1207', 'shop_id': '209890743', 'shop_url': '//shop209890743.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'ggjyijia', 'shop_id': '163240312', 'shop_url': '//shop163240312.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'xiongdanni889', 'shop_id': '109988542', 'shop_url': '//shop109988542.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '领航汽车用品889', 'shop_id': '105065993', 'shop_url': '//shop105065993.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '蔡旭鑫889', 'shop_id': '535434938', 'shop_url': '//shop535434938.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '黄文俊889', 'shop_id': '120762110', 'shop_url': '//shop120762110.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '菲凡鞋业889', 'shop_id': '100175004', 'shop_url': '//shop100175004.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'xiaoru889', 'shop_id': '109681066', 'shop_url': '//shop109681066.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '蔡永强889', 'shop_id': '112022694', 'shop_url': '//shop112022694.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}

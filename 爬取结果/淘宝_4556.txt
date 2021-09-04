@@ -1,0 +1,89 @@
+{'seller': 'mjkj668668', 'shop_id': '400125029', 'shop_url': '//shop400125029.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '高831125', 'shop_id': '189937319', 'shop_url': '//shop189937319.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': 'tingting4556', 'shop_id': '156661130', 'shop_url': '//shop156661130.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'abiner4556', 'shop_id': '120901225', 'shop_url': '//shop120901225.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'yangchuliang', 'shop_id': '336303026', 'shop_url': '//shop336303026.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'jxbzju', 'shop_id': '218284199', 'shop_url': '//shop218284199.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'jkic88', 'shop_id': '269661353', 'shop_url': '//shop269661353.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '姿胜优品', 'shop_id': '245415449', 'shop_url': '//shop245415449.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'tb62468497', 'shop_id': '262305413', 'shop_url': '//shop262305413.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'f沙比特m', 'shop_id': '155877887', 'shop_url': '//shop155877887.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'mo默默哒', 'shop_id': '152227144', 'shop_url': '//shop152227144.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'winter4556', 'shop_id': '73472242', 'shop_url': '//shop73472242.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb6311442040', 'shop_id': '178030442', 'shop_url': '//shop178030442.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '蓝田白云4556', 'shop_id': '598175487', 'shop_url': '//shop598175487.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 3, 'reason': ['信誉评分过低', '店铺主营描述为空', '动态评分过低']}
+{'seller': 'tb7368781533', 'shop_id': '474962901', 'shop_url': '//shop474962901.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '一树百获4556', 'shop_id': '372910685', 'shop_url': '//shop372910685.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'tb152326011', 'shop_id': '597327983', 'shop_url': '//shop597327983.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '2oooyijun', 'shop_id': '381471125', 'shop_url': '//shop381471125.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': '文4556', 'shop_id': '416116347', 'shop_url': '//shop416116347.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'tb964877_66', 'shop_id': '109731567', 'shop_url': '//shop109731567.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'fish4556', 'shop_id': '62687730', 'shop_url': '//shop62687730.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '吵包歆4556', 'shop_id': '140802984', 'shop_url': '//shop140802984.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '家有囡涵', 'shop_id': '110317889', 'shop_url': '//shop110317889.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb50924137', 'shop_id': '73472597', 'shop_url': '//shop73472597.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '许森乔', 'shop_id': '106368623', 'shop_url': '//shop106368623.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '全国散热风扇大部落', 'shop_id': '292025820', 'shop_url': '//shop292025820.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'tb006685002', 'shop_id': '240869488', 'shop_url': '//shop240869488.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '空同山4556', 'shop_id': '297667551', 'shop_url': '//shop297667551.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '德宝旗剑店', 'shop_id': '399935442', 'shop_url': '//shop399935442.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '威博袋业4556', 'shop_id': '149677493', 'shop_url': '//shop149677493.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': '天使之子qq', 'shop_id': '65053716', 'shop_url': '//shop65053716.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '发的4556', 'shop_id': '353985702', 'shop_url': '//shop353985702.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '深圳鸿蒙云商', 'shop_id': '206244462', 'shop_url': '//shop206244462.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '恒好酒业4556', 'shop_id': '309635941', 'shop_url': '//shop309635941.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '52zhiqiang', 'shop_id': '66007444', 'shop_url': '//shop66007444.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'shhby2008', 'shop_id': '72119490', 'shop_url': '//shop72119490.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'nian4556', 'shop_id': '106432593', 'shop_url': '//shop106432593.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '闵海致4556', 'shop_id': '113941661', 'shop_url': '//shop113941661.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '杨旭华2009', 'shop_id': '58671516', 'shop_url': '//shop58671516.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': 'keenquest', 'shop_id': '33581333', 'shop_url': '//shop33581333.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '小小小小小小小小嘉', 'shop_id': '156309125', 'shop_url': '//shop156309125.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '陈世斌04', 'shop_id': '468253790', 'shop_url': '//shop468253790.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分过低']}
+{'seller': '郦老师', 'shop_id': '129879661', 'shop_url': '//shop129879661.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '柯4556', 'shop_id': '548497441', 'shop_url': '//shop548497441.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '小日子超市', 'shop_id': '110785953', 'shop_url': '//shop110785953.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '守望者2016', 'shop_id': '101912305', 'shop_url': '//shop101912305.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '满街游走4556', 'shop_id': '72942593', 'shop_url': '//shop72942593.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '身正科技发展', 'shop_id': '599319886', 'shop_url': '//shop599319886.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'legobrothers', 'shop_id': '372169762', 'shop_url': '//shop372169762.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '杨文森27726263', 'shop_id': '257422585', 'shop_url': '//shop257422585.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分过低']}
+{'seller': '风扇散热之家998', 'shop_id': '579643842', 'shop_url': '//shop579643842.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'liyang4556', 'shop_id': '207036530', 'shop_url': '//shop207036530.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '芬芳泽华', 'shop_id': '117176990', 'shop_url': '//shop117176990.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '全球电子元器件汇总', 'shop_id': '109256990', 'shop_url': '//shop109256990.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'wl718630210', 'shop_id': '102650443', 'shop_url': '//shop102650443.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '冯利会4556', 'shop_id': '117027974', 'shop_url': '//shop117027974.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '严浩520', 'shop_id': '57516095', 'shop_url': '//shop57516095.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '深圳方圆电子商行', 'shop_id': '110112432', 'shop_url': '//shop110112432.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '乔辉孰', 'shop_id': '572155076', 'shop_url': '//shop572155076.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 't_1478841123088_0', 'shop_id': '445774556', 'shop_url': '//shop445774556.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': 'tb193925758474', 'shop_id': '319357007', 'shop_url': '//shop319357007.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '烨灵星电子', 'shop_id': '213986394', 'shop_url': '//shop213986394.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'okayama4556', 'shop_id': '538903845', 'shop_url': '//shop538903845.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '故事里的小红花', 'shop_id': '69238323', 'shop_url': '//shop69238323.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['店铺主营描述为空']}
+{'seller': '安贞里木真了服装店', 'shop_id': '36260763', 'shop_url': '//shop36260763.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'xiahuangc', 'shop_id': '405215235', 'shop_url': '//shop405215235.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tdcqmszrcszt', 'shop_id': '509114654', 'shop_url': '//shop509114654.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb272400201', 'shop_id': '220936832', 'shop_url': '//shop220936832.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '工业设备风扇', 'shop_id': '423473916', 'shop_url': '//shop423473916.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['店铺主营描述为空', '动态评分为满分']}
+{'seller': 'kkroyhqu000', 'shop_id': '106438861', 'shop_url': '//shop106438861.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分过低']}
+{'seller': 'gjxya4556', 'shop_id': '37069751', 'shop_url': '//shop37069751.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '下一季2009', 'shop_id': '71478026', 'shop_url': '//shop71478026.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'zjw4556', 'shop_id': '100056635', 'shop_url': '//shop100056635.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb_3272346', 'shop_id': '105603858', 'shop_url': '//shop105603858.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '美之源51', 'shop_id': '414590988', 'shop_url': '//shop414590988.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 2, 'reason': ['信誉评分过低', '动态评分为满分']}
+{'seller': '亿光_光谱盛', 'shop_id': '102581174', 'shop_url': '//shop102581174.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '乐购衣站v', 'shop_id': '163594882', 'shop_url': '//shop163594882.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb33067120', 'shop_id': '159470067', 'shop_url': '//shop159470067.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': 'weilvwan128', 'shop_id': '473864297', 'shop_url': '//shop473864297.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '北京风机商城', 'shop_id': '148549032', 'shop_url': '//shop148549032.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '投影老店', 'shop_id': '72348997', 'shop_url': '//shop72348997.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '88余旭明', 'shop_id': '150161211', 'shop_url': '//shop150161211.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'pointstudio', 'shop_id': '20036584', 'shop_url': '//shop20036584.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '五洲风机机电设备商城', 'shop_id': '148437067', 'shop_url': '//shop148437067.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '11151010xmjp', 'shop_id': '118321337', 'shop_url': '//shop118321337.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': 'tb372063595', 'shop_id': '437486487', 'shop_url': '//shop437486487.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['信誉评分过低']}
+{'seller': '飞利浦正品体验店', 'shop_id': '100435087', 'shop_url': '//shop100435087.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '方叶18692933658', 'shop_id': '196678256', 'shop_url': '//shop196678256.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
+{'seller': '大嘴巴999', 'shop_id': '58171361', 'shop_url': '//shop58171361.taobao.com', 'type': '淘宝', 'xiaobao': '有', 'rank': 1, 'reason': ['动态评分为满分']}
