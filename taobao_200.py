@@ -27,17 +27,21 @@ class tb_spider(object):
     def __init__(self):
         self.root=Tk()
         self.run_status=StringVar()
+        self.filename = StringVar()
         self.run_status.set('待机')
         self.login_status=StringVar()
         self.login_status.set('未登录')
+        self.key_status=StringVar()
+        self.key_status.set('')
         self.input_word=StringVar()
         self.input_word.set('')
         self.key_word=''
         self.log_queue=queue.Queue()
+        self.tb_rank_list=[]
+        self.tm_rank_list=[]
         
         try:
-            self.root.after(100,self.listen_for_result)
-            #self.th_print_log()
+            self.log_job=self.root.after(100,self.listen_for_result)
             self.init_ui()
             self.dr=webdriver.Edge('./msedgedriver.exe')
             self.wait=WebDriverWait(self.dr, 5, 0.5)
@@ -52,12 +56,13 @@ class tb_spider(object):
             self.quit0()
     
     def init_ui(self):
-        self.root.geometry('700x300')
+        self.root.geometry('800x300')
         self.root.title('爬取程序')            
         self.root.protocol("WM_DELETE_WINDOW", self.quit0)
         
         panel_1=LabelFrame(self.root,padx=1,pady=1)
         
+        #第一层
         #登录按钮
         Button(self.root,text='登录',command=self.login, width = 8).grid(row=0, column=0)
         #开始按钮
@@ -65,16 +70,20 @@ class tb_spider(object):
         self.run_button.grid(row=0, column=1)           
         Frame(self.root,width=20).grid(row=0, column=2,columnspan=1)
         # status_frame = LabelFrame(self.root)
+        
+        #状态栏
         status_frame1 = LabelFrame(self.root)
         status_frame2 = LabelFrame(self.root)
-        
+        status_frame3 = LabelFrame(self.root)
         Label(status_frame1,text='运行状态:').pack(side=LEFT)             
         Label(status_frame1,textvariable=self.run_status).pack(side=RIGHT)            
         Label(status_frame2,text='登录状态:').pack(side=LEFT)                       
         Label(status_frame2,textvariable=self.login_status).pack(side=RIGHT)
-        
+        Label(status_frame3,text='当前关键词:').pack(side=LEFT)                       
+        Label(status_frame3,textvariable=self.key_status).pack(side=RIGHT)
         status_frame1.grid(row=0, column=3)
         status_frame2.grid(row=0, column=4)
+        status_frame3.grid(row=0, column=5)
         
         #日志插件初始化
         self.logger = logging.getLogger(__name__)
@@ -85,16 +94,32 @@ class tb_spider(object):
         tkhandler.setFormatter(fmt)
         self.logger.addHandler(tkhandler)
         
-        Label(self.root,text='关键词设置:').grid(row=1, column=0,columnspan=2)   
-        Entry(self.root,width=20,textvariable=self.input_word).grid(row=2, column=0,columnspan=2)
-        Button(self.root,text='确认',command=self.change_key_word, width = 8).grid(row=3, column=0,columnspan=1)
-        Button(self.root,text='清空',command=self.clear_key_word, width = 8).grid(row=3, column=1,columnspan=1)
-        Button(self.root,text='开始',command=self.start_spider, width = 8).grid(row=4, column=0,columnspan=1)
+        #第二层
+        #关键词设置框
+        Label(self.root,text='关键词设置:',width=8).grid(row=1, column=0,columnspan=1)   
+        Entry(self.root,width=24,textvariable=self.input_word).grid(row=1, column=1,columnspan=2)
+        #第三层
+        Button(self.root,text='确认',command=self.change_key_word, width = 8).grid(row=2, column=0,columnspan=1)
+        Button(self.root,text='清空',command=self.clear_key_word, width = 8).grid(row=2, column=1,columnspan=1)
+        Button(self.root,text='开始',command=self.start_spider, width = 8).grid(row=2, column=2,columnspan=1)
 
+        #第四层
+        Button(self.root,text='重新保存',command=self.save_result, width = 8).grid(row=3, column=0,columnspan=1)
+        
+        #第五层
+        #文件选择框
+        fileFrame=LabelFrame(self.root)
+        Label(fileFrame, text='选择文件：').grid(row=1, column=0, padx=5, pady=5)
+        Entry(fileFrame, textvariable=self.filename).grid(row=1, column=1, padx=5, pady=5)
+        Button(fileFrame, text='打开文件', command=self.selectFile).grid(row=1, column=2, padx=5, pady=5)
+        fileFrame.grid(row=4,column=0,columnspan=3)
+        
+        
     def quit0(self):
         print('系统退出')
         if self.dr is not None:
             self.dr.quit()
+        self.root.after_cancel(self.log_job)
         self.root.destroy()      
 
     def run(self):
@@ -135,10 +160,14 @@ class tb_spider(object):
         
     def change_key_word(self):
         self.key_word=self.input_word.get()
+        self.key_status.set(self.key_word)
         self.add_log("关键词已变为："+self.key_word)
         
     def clear_key_word(self):
         self.input_word.set('')
+        self.key_word=self.input_word.get()
+        self.key_status.set(self.key_word)
+        self.add_log("关键词已清空")
      
     def get_url(self,num):
         url=shop_search_url.format(key_word=self.key_word)+'&s='+str((num-1)*20)
@@ -156,11 +185,12 @@ class tb_spider(object):
                 self.add_log('未处于待机状态，不允许重新开始','warning')
         else:
             self.add_log('请先登录后，刷新，再点击开始','warning')      
-        
+    
+    #爬虫核心代码    
     def spider_core(self):
         aa=0
-        tb_rank_list=[]
-        tm_rank_list=[]
+        self.tb_rank_list=[]
+        self.tm_rank_list=[]
         all_list=[]
         try:
             self.add_log('开始本次爬虫')
@@ -177,8 +207,8 @@ class tb_spider(object):
             page_count=0
             val=[500,4000,10000]
             for i in range(totalPage,0,-1):
-                # if page_count>6:
-                #     break
+                if page_count>6:
+                    break
                 do_sleep()
                 e_input = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
                 e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
@@ -201,7 +231,7 @@ class tb_spider(object):
                     all_list.append(rank_res)
                     if rank_res['rank']>0:
                         if rank_res['type']=='淘宝':
-                            tb_rank_list.append(rank_res)
+                            self.tb_rank_list.append(rank_res)
                         rank_count+=1
                 if rank_count==0:
                     key_count+=1
@@ -218,17 +248,22 @@ class tb_spider(object):
         except TimeoutException:
             self.add_log("连接超时，请检查网络",'warning')
         finally:
-            file_name='淘宝_'+self.key_word.replace(' ', '_')+'.txt'
-            with open('./爬取结果/'+file_name,'w') as f:
-                for it in tb_rank_list:
-                    f.write(str(it)+'\n')      
+            self.add_log('爬取完成')
+            self.save_result()
             cookies=self.dr.get_cookies()
             with open('cookies.txt','wb') as f:
                 pickle.dump(cookies,f)
-            self.add_log('爬取完成')
-            self.add_log('本次结果保存在:'+file_name)
             self.input_word.set('')
             self.run_status.set('待机')
+         
+    def save_result(self):
+        file_name=self.key_word.replace(' ', '_')+'.xls'
+        file_path='./爬取结果/'+file_name
+        res=wt_excel(file_path,self.tb_rank_list)
+        if res['code']=='0':
+            self.add_log('本次结果保存在:'+file_path)
+        else:
+            self.add_log(res['msg'])        
             
     def th_spider_core(self):
         spider_th=threading.Thread(target=self.spider_core)
@@ -256,11 +291,15 @@ class tb_spider(object):
             pass
      
     def listen_for_result(self):
-        """ Check if there is something in the queue. """
         self.print_log()
-        self.root.after(100,self.listen_for_result)    
-        
+        self.log_job=self.root.after(100,self.listen_for_result)    
+
+    def selectFile(self):
+        filepath = filedialog.askopenfilename(defaultextension='.txt')
+        if filepath:
+            self.filename.set(filepath)
+            self.add_log('已选择文件：'+self.filename.get())
         
 if __name__=='__main__':
     tb=tb_spider()
-    tb.run()        
+    tb.run()

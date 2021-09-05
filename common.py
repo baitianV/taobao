@@ -4,8 +4,68 @@ Created on Sun Sep  5 02:28:57 2021
 
 @author: Admin
 """
-import re,json,pickle,time,random
+import re,json,pickle,time,random,xlwt,xlrd,os
 
+login_url="https://login.taobao.com/"
+shop_search_url=r'https://shopsearch.taobao.com/search?q={key_word}&sort=sale-desc'
+head_1=[
+    {'title':'卖家','width':15},
+    {'title':'店铺ID','width':15},
+    {'title':'店铺链接','width':30},
+    {'title':'店铺类型','width':10},
+    {'title':'是否有消保','width':10},
+    {'title':'不合规等级','width':10},
+    {'title':'不合规理由','width':50}
+]
+head_2=[
+    {'title':'卖家','width':15},
+    {'title':'店铺ID','width':15},
+    {'title':'店铺链接','width':30},
+    {'title':'店铺类型','width':10},
+    {'title':'是否有消保','width':10},
+    {'title':'不合规等级','width':10},
+    {'title':'不合规理由','width':50}
+]
+def wt_excel(road,content_list,head=head_1):
+    res={}
+    workbook = xlwt.Workbook(encoding= 'utf-8')
+    worksheet = workbook.add_sheet("淘宝")
+    i=0
+    j=0
+    for item in head_1:
+        worksheet.write(i,j,item['title'])
+        worksheet.col(j).width = item['width']*256
+        j+=1
+
+    for item in content_list:
+        i+=1
+        j=0
+        for key,value in item.items():
+            if j==6:
+                tmp=''
+                for it in value:
+                    tmp+=it+';'
+                worksheet.write(i,j,tmp) 
+            else:
+                worksheet.write(i,j,value)
+            j+=1
+    try:
+        if os.path.exists(road):
+            os.remove(road)
+        workbook.save(road)
+    except WindowsError as e:
+        print(e)
+        print('请先关闭此文件')
+        res={'code':'1','msg':'文件被占用，请先关闭此文件，再点击保存'}
+    except Exception as e:
+        print(e)
+        print('文件路径出错')
+        res={'code':'2','msg':'文件路径出错，请确认文件路径'}
+    else:
+        res={'code':'0','msg':'保存成功'}
+    finally:
+        return res
+        
 
 class message(object):
     def __init__(self,msg='',tp='info'):
@@ -93,3 +153,4 @@ def do_sleep():
 def long_sleep():
     t=random.randint(5,10)*0.3+5
     time.sleep(t)      
+    
