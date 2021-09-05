@@ -9,13 +9,13 @@ import re,json,pickle,time,random,xlwt,xlrd,os
 login_url="https://login.taobao.com/"
 shop_search_url=r'https://shopsearch.taobao.com/search?q={key_word}&sort=sale-desc'
 head_1=[
-    {'title':'卖家','width':15},
-    {'title':'店铺ID','width':15},
-    {'title':'店铺链接','width':30},
-    {'title':'店铺类型','width':10},
-    {'title':'是否有消保','width':10},
-    {'title':'不合规等级','width':10},
-    {'title':'不合规理由','width':50}
+    {'title':'卖家','width':15,'data':'seller'},
+    {'title':'店铺ID','width':15,'data':'shop_id'},
+    {'title':'店铺链接','width':30,'data':'shop_url'},
+    {'title':'店铺类型','width':10,'data':'type'},
+    {'title':'是否有消保','width':10,'data':'xiaobao'},
+    {'title':'不合规等级','width':10,'data':'rank'},
+    {'title':'不合规理由','width':50,'data':'reason'}
 ]
 head_2=[
     {'title':'卖家','width':15},
@@ -65,6 +65,25 @@ def wt_excel(road,content_list,head=head_1):
         res={'code':'0','msg':'保存成功'}
     finally:
         return res
+        
+def rd_excel(road):
+    res={}
+    try:
+        sheet = xlrd.open_workbook(road).sheet_by_index(0)
+    except WindowsError as e:
+        print(e)
+        print('请先关闭此文件')
+        res={'code':'1','msg':'文件被占用，请先关闭此文件，再开始筛选'}
+    except Exception as e:
+        print(e)
+        print('文件路径出错')
+        res={'code':'2','msg':'文件路径出错，请确认文件路径'}
+    nrows = sheet.nrows
+    ncols=sheet.row_len(0)
+    if nrows<1:
+        res={'code':'3','msg':'此文件内容为空'}
+    i=1
+    j=0
         
 
 class message(object):

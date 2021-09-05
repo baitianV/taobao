@@ -104,7 +104,7 @@ class tb_spider(object):
         Button(self.root,text='开始',command=self.start_spider, width = 8).grid(row=2, column=2,columnspan=1)
 
         #第四层
-        Button(self.root,text='重新保存',command=self.save_result, width = 8).grid(row=3, column=0,columnspan=1)
+        Button(self.root,text='保存',command=self.save_result, width = 8).grid(row=3, column=0,columnspan=1)
         
         #第五层
         #文件选择框
@@ -259,6 +259,9 @@ class tb_spider(object):
     def save_result(self):
         file_name=self.key_word.replace(' ', '_')+'.xls'
         file_path='./爬取结果/'+file_name
+        tmp_path='./爬取结果/缓存文件/'+self.key_word.replace(' ', '_')+'.txt'
+        with open(tmp_path,'wb') as f:
+            pickle.dump(self.tb_rank_list,f)
         res=wt_excel(file_path,self.tb_rank_list)
         if res['code']=='0':
             self.add_log('本次结果保存在:'+file_path)
