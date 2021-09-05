@@ -25,9 +25,8 @@ from threading import Thread
 from tklog.tklog import *
 import logging
 from common import *
+from web_thread import web_thread
 
-login_url="https://login.taobao.com/"
-shop_search_url=r'https://shopsearch.taobao.com/search?q={key_word}&sort=sale-desc'
 
 class ui_thread(threading.Thread):
     def __init__(self,log_queue):
@@ -41,6 +40,7 @@ class ui_thread(threading.Thread):
         self.input_word.set('')
         self.key_word=''
         try:
+            self.web=web_thread(self.log_queue)
             self.root.geometry('700x300')
             self.root.title('爬取程序')            
             self.root.protocol("WM_DELETE_WINDOW", self.quit0)
@@ -82,6 +82,7 @@ class ui_thread(threading.Thread):
             # status_frame.pack(padx=1,pady=1,side=TOP)
             # status_frame1.pack(padx=1,pady=1,side=LEFT)
             # status_frame2.pack(padx=1,pady=1,side=LEFT)
+            Thread.__init__(self)
         except FileNotFoundError as e:
             print(e)
             self.logger.debug(e)
@@ -93,8 +94,8 @@ class ui_thread(threading.Thread):
 
     def quit0(self):
         print('系统退出')
-        if self.dr is not None:
-            self.dr.quit()
+        if self.web is not None:
+            self.web.quit0()
         self.root.destroy()      
 
     def run(self):
@@ -157,78 +158,7 @@ class ui_thread(threading.Thread):
         else:
             self.add_log('请先登录后，刷新，再点击开始','warning')
             
-    def spider_core(self):
-        aa=0
-        tb_rank_list=[]
-        tm_rank_list=[]
-        all_list=[]
-        try:
-            self.add_log('开始本次爬虫')
-            key_url=shop_search_url.format(key_word=self.key_word)
-            self.dr.get(key_url)
-            e_input =self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
-            e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
-            #page_source = self.dr.find_element_by_xpath("//*").get_attribute("outerHTML")
-            page_source=self.dr.page_source
-            page_json=get_json(page_source)
-            pager=page_json['mods']['pager']['data']
-            totalPage=pager['totalPage']
-            key_count=0
-            page_count=0
-            val=[500,4000,10000]
-            for i in range(totalPage,0,-1):
-                # if page_count>6:
-                #     break
-                do_sleep()
-                e_input = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
-                e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
-                e_input.clear()
-                e_input.send_keys(i)
-                #e_button.click()
-                self.dr.get(self.get_url(i))
-                self.wait.until(EC.text_to_be_present_in_element((By.CSS_SELECTOR, 'span.current'),str(i)))
-                # for j in val:           
-                #     js="var q=document.documentElement.scrollTop={}".format(j)
-                #     st=random.randint(5,10)*0.1
-                #     time.sleep(st)
-                #     self.dr.execute_script(js)
-                page_source=self.dr.page_source
-                shop_data=get_json(page_source)
-                shopItems=shop_data['mods']['shoplist']['data']['shopItems']
-                rank_count=0
-                for shopItem in shopItems:
-                    rank_res=check_rank(shopItem)
-                    all_list.append(rank_res)
-                    if rank_res['rank']>0:
-                        if rank_res['type']=='淘宝':
-                            tb_rank_list.append(rank_res)
-                        rank_count+=1
-                if rank_count==0:
-                    key_count+=1
-                else:
-                    key_count=0
-                    
-                page_count+=1
-                self.add_log('已抓取{}页'.format(page_count))
-                if page_count%10==0:
-                    long_sleep()
-                if key_count>=3:
-                    self.add_log('连续三页未抓取到有用信息，自动退出本次爬虫')
-                    break
-        except TimeoutException:
-            self.add_log("连接超时，请检查网络",'warning')
-        finally:
-            file_name='淘宝_'+self.key_word.replace(' ', '_')+'.txt'
-            with open('./爬取结果/'+file_name,'w') as f:
-                for it in tb_rank_list:
-                    f.write(str(it)+'\n')      
-            cookies=self.dr.get_cookies()
-            with open('cookies.txt','wb') as f:
-                pickle.dump(cookies,f)
-            self.add_log('爬取完成')
-            self.add_log('本次结果保存在:'+file_name)
-            self.input_word.set('')
-            self.run_status.set('待机')
+
 
     #插入日志
     def add_log(self,msg='',tp='info'):
@@ -250,5 +180,12 @@ class ui_thread(threading.Thread):
                 self.logger.info(msg)
         except queue.Empty:
             pass
-
+        
+    def job_print_log(self):
+        while True:
+            self.print_log()
+    
+    def th_log(self):
+        log_th=threading.Thread(target=self.job_print_log)
+        log_th.start()
 

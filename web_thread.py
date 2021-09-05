@@ -20,7 +20,7 @@ from common import *
 
 class web_thread(Thread):
     
-    def __init__(self,log_queue):
+    def __init__(self,log_queue,key_word):
         try:
             self.log_queue=log_queue
             self.dr=webdriver.Edge('./msedgedriver.exe')
@@ -111,3 +111,5 @@ class web_thread(Thread):
             self.input_word.set('')
             self.run_status.set('待机')   
     
+    def quit0(self):
+        self.dr.quit()
