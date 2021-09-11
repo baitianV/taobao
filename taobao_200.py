@@ -23,11 +23,17 @@ from common import *
 class tb_spider(object):
     status_list=['待机','运行中']
     lg_status_list=['未登录','已登录']
+    path={
+        '爬取结果':r'./爬取结果/',
+        '缓存路径':r'./爬取结果/缓存文件/',
+        '二筛结果':r'./二筛结果/'
+    }
         
     def __init__(self):
         self.root=Tk()
         self.run_status=StringVar()
-        self.filename = StringVar()
+        self.filepath = StringVar()
+        self.filename = ''
         self.run_status.set('待机')
         self.login_status=StringVar()
         self.login_status.set('未登录')
@@ -39,7 +45,8 @@ class tb_spider(object):
         self.log_queue=queue.Queue()
         self.tb_rank_list=[]
         self.tm_rank_list=[]
-        
+        self.second_list=[]
+        self.second_res_list=[]
         try:
             self.log_job=self.root.after(100,self.listen_for_result)
             self.init_ui()
@@ -104,15 +111,20 @@ class tb_spider(object):
         Button(self.root,text='开始',command=self.start_spider, width = 8).grid(row=2, column=2,columnspan=1)
 
         #第四层
-        Button(self.root,text='保存',command=self.save_result, width = 8).grid(row=3, column=0,columnspan=1)
+        Button(self.root,text='一筛',command=self.start_spider, width = 8).grid(row=3, column=0,columnspan=1)
+        Button(self.root,text='保存',command=self.save_result, width = 8).grid(row=3, column=1,columnspan=1)
         
         #第五层
         #文件选择框
         fileFrame=LabelFrame(self.root)
         Label(fileFrame, text='选择文件：').grid(row=1, column=0, padx=5, pady=5)
-        Entry(fileFrame, textvariable=self.filename).grid(row=1, column=1, padx=5, pady=5)
+        Entry(fileFrame, textvariable=self.filepath).grid(row=1, column=1, padx=5, pady=5)
         Button(fileFrame, text='打开文件', command=self.selectFile).grid(row=1, column=2, padx=5, pady=5)
         fileFrame.grid(row=4,column=0,columnspan=3)
+        
+        #第六层
+        Button(self.root, text='开始二筛', command=self.start_second,width = 8).grid(row=5, column=0, columnspan=1)
+        
         
         
     def quit0(self):
@@ -228,6 +240,7 @@ class tb_spider(object):
                 rank_count=0
                 for shopItem in shopItems:
                     rank_res=check_rank(shopItem)
+                    rank_res['key_word']=self.key_word
                     all_list.append(rank_res)
                     if rank_res['rank']>0:
                         if rank_res['type']=='淘宝':
@@ -266,7 +279,16 @@ class tb_spider(object):
         if res['code']=='0':
             self.add_log('本次结果保存在:'+file_path)
         else:
-            self.add_log(res['msg'])        
+            self.add_log(res['msg'])
+            
+    def save_second(self):
+        file_name=self.filename+'.xls'
+        file_path=tb_spider.path['二筛结果']+file_name
+        res=wt_excel(file_path,self.second_res_list,head_2)
+        if res['code']=='0':
+            self.add_log('本次结果保存在:'+file_path)
+        else:
+            self.add_log(res['msg'])  
             
     def th_spider_core(self):
         spider_th=threading.Thread(target=self.spider_core)
@@ -298,11 +320,109 @@ class tb_spider(object):
         self.log_job=self.root.after(100,self.listen_for_result)    
 
     def selectFile(self):
-        filepath = filedialog.askopenfilename(defaultextension='.txt')
+        filepath = filedialog.askopenfilename(defaultextension='.xls')
         if filepath:
-            self.filename.set(filepath)
-            self.add_log('已选择文件：'+self.filename.get())
+            self.filepath.set(filepath)
+            self.filename=filepath.split('/')[-1].split('.')[0]
+            self.add_log('已选择文件：'+self.filepath.get())
+            print(self.filename)
+            
+    def load_tmp(self):
+        tmp_path=tb_spider.path['缓存路径']+self.filename+'.txt'
+        try:
+            f=open(tmp_path,'rb')
+            self.second_list=pickle.load(f)
+        except FileNotFoundError as e:
+            self.add_log('未找到对应缓存文件，请检查！','warning')
+        except Exception as e:
+            self.add_log('选择的文件可能存在问题，请检查！','warning')
+
+    def start_second(self):
+        if self.login_status.get() == '已登录':
+            if self.run_status.get() == '待机':
+                if self.filename.strip()=='':
+                    self.add_log('请先选择需要二筛的文件','warning')
+                else:
+                    self.run_status.set('运行中')
+                    self.th_spider_second()
+            else:
+                self.add_log('未处于待机状态，不允许重新开始','warning')
+        else:
+            self.add_log('请先登录后，刷新，再点击开始','warning')  
+
+    
+    def spider_second(self):
+        self.add_log('二筛开始')
+        self.second_res_list=[]        
+        self.load_tmp()
+        try:
+            for item in self.second_list:
+                shop_url=item['shop_url']
+                if 'https:' not in shop_url:
+                    shop_url='https:'+shop_url
+                tb.dr.get(shop_url)
+                tmp_wait =tb.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
+                do_sleep()
+                if check_second(self.dr.page_source):
+                    self.second_res_list.append(item)
+        except TimeoutException:
+            self.add_log("连接超时，请检查网络",'warning')
+        finally:
+            self.add_log('二筛完成')
+            self.save_second()
+            cookies=self.dr.get_cookies()
+            with open('cookies.txt','wb') as f:
+                pickle.dump(cookies,f)
+            self.run_status.set('待机')
+            
+    def th_spider_second(self):
+        spider_th=threading.Thread(target=self.spider_second)
+        spider_th.start()
+    
+    def all_spider(self):
+        self.spider_core()
+        self.filename=self.key_word.replace(' ', '_')
+        self.spider_second()
         
+    def th_all_spider(self):
+        spider_th=threading.Thread(target=self.all_spider)
+        spider_th.start()
+        
+    def start_spider(self):
+        if self.login_status.get() == '已登录':
+            if self.run_status.get() == '待机':
+                if self.key_word.strip() == '':
+                    self.add_log('关键词为空，请设置关键词','warning')
+                else:
+                    self.run_status.set('运行中')
+                    self.th_all_spider()
+            else:
+                self.add_log('未处于待机状态，不允许重新开始','warning')
+        else:
+            self.add_log('请先登录后，刷新，再点击开始','warning')      
+    
+    
+#%%
 if __name__=='__main__':
     tb=tb_spider()
     tb.run()
+    # tb.root.destroy()
+    # tb.dr.get(login_url)
+    # #%%
+    # tb.filename='123'
+    # tb.load_tmp()
+    # #%%
+    # for item in tb.second_list:
+    #     tb.dr.get('http:'+item['shop_url'])
+    #     print('http:'+item['shop_url'])
+    #     tmp_wait =tb.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
+    #     page_source=tb.dr.page_source
+    #     print(check_second(tb.dr.page_source))
+    # #t.dr.get()
+    # #%%
+    # tb.dr.get(r'https://shop260170049.taobao.com/?spm=a230r.7195193.1997079397.2.7deb5366iPLvVY')
+    # tmp_wait =tb.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
+    # page_source=tb.dr.page_source
+    # print(check_second(tb.dr.page_source))
+    # # #%%
+#%%

@@ -15,16 +15,18 @@ head_1=[
     {'title':'店铺类型','width':10,'data':'type'},
     {'title':'是否有消保','width':10,'data':'xiaobao'},
     {'title':'不合规等级','width':10,'data':'rank'},
-    {'title':'不合规理由','width':50,'data':'reason'}
+    {'title':'不合规理由','width':50,'data':'reason'},
+    {'title':'关键词','width':50,'data':'key_word'}
 ]
 head_2=[
-    {'title':'卖家','width':15},
-    {'title':'店铺ID','width':15},
-    {'title':'店铺链接','width':30},
-    {'title':'店铺类型','width':10},
-    {'title':'是否有消保','width':10},
-    {'title':'不合规等级','width':10},
-    {'title':'不合规理由','width':50}
+    {'title':'卖家','width':15,'data':'seller'},
+    {'title':'店铺ID','width':15,'data':'shop_id'},
+    {'title':'店铺链接','width':30,'data':'shop_url'},
+    {'title':'店铺类型','width':10,'data':'type'},
+    {'title':'是否有消保','width':10,'data':'xiaobao'},
+    {'title':'不合规等级','width':10,'data':'rank'},
+    {'title':'不合规理由','width':50,'data':'reason'},
+    {'title':'关键词','width':50,'data':'key_word'}
 ]
 def wt_excel(road,content_list,head=head_1):
     res={}
@@ -40,14 +42,15 @@ def wt_excel(road,content_list,head=head_1):
     for item in content_list:
         i+=1
         j=0
-        for key,value in item.items():
-            if j==6:
+        for hd in head:
+            data=hd['data']
+            if hd['title']=='不合规理由':
                 tmp=''
-                for it in value:
+                for it in item[data]:
                     tmp+=it+';'
                 worksheet.write(i,j,tmp) 
             else:
-                worksheet.write(i,j,value)
+                worksheet.write(i,j,item[data])
             j+=1
     try:
         if os.path.exists(road):
@@ -119,7 +122,7 @@ def check_rank(shopItem):
     try:
         res['seller']=shopItem['nick']
         res['shop_id']=shopItem['nid']
-        res['shop_url']=shopItem['shopUrl']
+        res['shop_url']='https:'+shopItem['shopUrl']
         if 'title' in shopItem['shopIcon'] and shopItem['shopIcon']['title']=='天猫':
             res['type']='天猫'
         else:
@@ -157,6 +160,27 @@ def check_rank(shopItem):
         res['rank']=rank
         res['reason']=reason
         return res
+    
+def check_second(text):
+    flag_1=False
+    flag_2=False
+    pattern=re.compile(r'该店铺已签署消费者保障协议.*已缴纳.*\d+.*元', re.S|re.M|re.I)
+    tmp_str=re.search(pattern,text)
+    if tmp_str is not None:
+        pattern=re.compile(r'\d+', re.S|re.M|re.I)
+        tmp_str=tmp_str.group(0)
+        num=float(re.search(pattern,tmp_str).group(0))
+        if num>0:
+            flag_1=True
+    pattern=re.compile(r'该用户已通过企业卖家认证', re.S|re.M|re.I)
+    corp=re.search(pattern,text)
+    if corp is None:
+        flag_2=True
+    if flag_1 and flag_2:
+        return True
+    print(flag_1,',',flag_2)
+    return False
+    
     
 def pj_url(url,params):
     for i in params:
