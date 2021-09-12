@@ -219,8 +219,8 @@ class tb_spider(object):
             page_count=0
             val=[500,4000,10000]
             for i in range(totalPage,0,-1):
-                if page_count>6:
-                    break
+                # if page_count>6:
+                #     break
                 do_sleep()
                 e_input = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
                 e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))

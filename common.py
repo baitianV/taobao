@@ -174,7 +174,9 @@ def check_second(text):
             flag_1=True
     pattern=re.compile(r'该用户已通过企业卖家认证', re.S|re.M|re.I)
     corp=re.search(pattern,text)
-    if corp is None:
+    pattern=re.compile(r'该用户已通过个体工商户认证', re.S|re.M|re.I)
+    person=re.search(pattern,text)
+    if corp is None and person is None:
         flag_2=True
     if flag_1 and flag_2:
         return True
