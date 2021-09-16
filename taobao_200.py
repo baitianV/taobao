@@ -5,6 +5,7 @@ Created on Sun Sep  5 01:09:21 2021
 @author: Admin
 """
 
+from tkinter import filedialog
 from tkinter import *
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
