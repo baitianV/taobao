@@ -52,7 +52,7 @@ class tb_spider(object):
             self.log_job=self.root.after(100,self.listen_for_result)
             self.init_ui()
             self.dr=webdriver.Edge('./msedgedriver.exe')
-            self.wait=WebDriverWait(self.dr, 5, 0.5)
+            self.wait=WebDriverWait(self.dr, 8, 0.5)
             #self.root.mainloop()
         except FileNotFoundError as e:
             print(e)
@@ -109,7 +109,7 @@ class tb_spider(object):
         #第三层
         Button(self.root,text='确认',command=self.change_key_word, width = 8).grid(row=2, column=0,columnspan=1)
         Button(self.root,text='清空',command=self.clear_key_word, width = 8).grid(row=2, column=1,columnspan=1)
-        Button(self.root,text='开始',command=self.start_spider, width = 8).grid(row=2, column=2,columnspan=1)
+        Button(self.root,text='开始',command=self.start_all_spider, width = 8).grid(row=2, column=2,columnspan=1)
 
         #第四层
         Button(self.root,text='一筛',command=self.start_spider, width = 8).grid(row=3, column=0,columnspan=1)
@@ -278,16 +278,16 @@ class tb_spider(object):
             pickle.dump(self.tb_rank_list,f)
         res=wt_excel(file_path,self.tb_rank_list)
         if res['code']=='0':
-            self.add_log('本次结果保存在:'+file_path)
+            self.add_log('本次结果保存在:'+res['road'])
         else:
             self.add_log(res['msg'])
             
     def save_second(self):
         file_name=self.filename+'.xls'
         file_path=tb_spider.path['二筛结果']+file_name
-        res=wt_excel(file_path,self.second_res_list,head_2)
+        res=wt_excel(file_path,self.second_res_list,head_2,2)
         if res['code']=='0':
-            self.add_log('本次结果保存在:'+file_path)
+            self.add_log('本次结果保存在:'+res['road'])
         else:
             self.add_log(res['msg'])  
             
@@ -357,6 +357,7 @@ class tb_spider(object):
         self.second_res_list=[]        
         self.load_tmp()
         try:
+            n=0
             for item in self.second_list:
                 shop_url=item['shop_url']
                 if 'https:' not in shop_url:
@@ -366,6 +367,8 @@ class tb_spider(object):
                 do_sleep()
                 if check_second(self.dr.page_source):
                     self.second_res_list.append(item)
+                n+=1
+                self.add_log('已完成第{}个店铺的筛选'.format(n))
         except TimeoutException:
             self.add_log("连接超时，请检查网络",'warning')
         finally:
@@ -389,7 +392,7 @@ class tb_spider(object):
         spider_th=threading.Thread(target=self.all_spider)
         spider_th.start()
         
-    def start_spider(self):
+    def start_all_spider(self):
         if self.login_status.get() == '已登录':
             if self.run_status.get() == '待机':
                 if self.key_word.strip() == '':

@@ -28,7 +28,7 @@ head_2=[
     {'title':'不合规理由','width':50,'data':'reason'},
     {'title':'关键词','width':50,'data':'key_word'}
 ]
-def wt_excel(road,content_list,head=head_1):
+def wt_excel(road,content_list,head=head_1,mode=1):
     res={}
     workbook = xlwt.Workbook(encoding= 'utf-8')
     worksheet = workbook.add_sheet("淘宝")
@@ -53,8 +53,14 @@ def wt_excel(road,content_list,head=head_1):
                 worksheet.write(i,j,item[data])
             j+=1
     try:
-        if os.path.exists(road):
-            os.remove(road)
+        if mode==1:
+            if os.path.exists(road):
+                os.remove(road)
+        elif mode==2:
+            seq=0                
+            while os.path.exists(road):
+                seq+=1
+                road=add_seq(road,seq)
         workbook.save(road)
     except WindowsError as e:
         print(e)
@@ -65,10 +71,23 @@ def wt_excel(road,content_list,head=head_1):
         print('文件路径出错')
         res={'code':'2','msg':'文件路径出错，请确认文件路径'}
     else:
-        res={'code':'0','msg':'保存成功'}
+        res={'code':'0','msg':'保存成功','road':road}
     finally:
         return res
         
+def add_seq(road,n=1):
+    last=road.split('.')[-1]
+    l=len(last)
+    road=road[0:-l-1]
+    pattern=re.compile(r'\(\d+\)', re.S|re.M|re.I)
+    res=re.findall(pattern,road)
+    if len(res) != 0:
+        tmp_str=res[-1]
+        l=len(tmp_str)
+        road=road[0:-l]
+    road=road +'('+str(n)+')'+'.xls'
+    return road
+    
 def rd_excel(road):
     res={}
     try:
