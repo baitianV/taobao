@@ -54,6 +54,10 @@ class tb_spider(object):
             self.dr=webdriver.Edge('./msedgedriver.exe')
             self.wait=WebDriverWait(self.dr, 8, 0.5)
             #self.root.mainloop()
+        except SessionNotCreatedException as e:
+            print(e)
+            self.logger.debug('浏览器驱动版本需要更新，请联系管理员！')
+            self.quit0()
         except FileNotFoundError as e:
             print(e)
             self.logger.debug(e)
