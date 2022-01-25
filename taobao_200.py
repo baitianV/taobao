@@ -8,7 +8,7 @@ Created on Sun Sep  5 01:09:21 2021
 from tkinter import filedialog
 from tkinter import *
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException,SessionNotCreatedException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
@@ -48,6 +48,7 @@ class tb_spider(object):
         self.tm_rank_list=[]
         self.second_list=[]
         self.second_res_list=[]
+        self.setting=spider_setting()
         try:
             self.log_job=self.root.after(100,self.listen_for_result)
             self.init_ui()
@@ -68,7 +69,7 @@ class tb_spider(object):
             self.quit0()
     
     def init_ui(self):
-        self.root.geometry('800x300')
+        self.root.geometry('1200x300')
         self.root.title('爬取程序')            
         self.root.protocol("WM_DELETE_WINDOW", self.quit0)
         
@@ -96,6 +97,33 @@ class tb_spider(object):
         status_frame1.grid(row=0, column=3)
         status_frame2.grid(row=0, column=4)
         status_frame3.grid(row=0, column=5)
+        
+        #参数栏
+        self.short_time=StringVar()
+        self.short_time.set(self.setting.short_time)
+        self.long_time=StringVar()
+        self.long_time.set(self.setting.long_time)
+        self.low_lv=StringVar()
+        self.low_lv.set(self.setting.low_lv)
+        self.stop_page=StringVar()
+        self.stop_page.set(self.setting.stop_page)
+        setting_frame1 = LabelFrame(self.root)
+        setting_frame2 = LabelFrame(self.root)
+        setting_frame3 = LabelFrame(self.root)
+        setting_frame4 = LabelFrame(self.root)
+        Label(setting_frame1,text='短停时间（每查一页停一次）:').pack(side=LEFT)             
+        Entry(setting_frame1,textvariable=self.short_time).pack(side=RIGHT) 
+        Label(setting_frame2,text='长停时间（每查十页停一次）:').pack(side=LEFT)             
+        Entry(setting_frame2,textvariable=self.long_time).pack(side=RIGHT)
+        Label(setting_frame3,text='店铺最低等级:').pack(side=LEFT)             
+        Entry(setting_frame3,textvariable=self.low_lv).pack(side=RIGHT) 
+        Label(setting_frame4,text='中断页数:').pack(side=LEFT)             
+        Entry(setting_frame4,textvariable=self.stop_page).pack(side=RIGHT) 
+        setting_frame1.grid(row=0, column=7)
+        setting_frame2.grid(row=1, column=7)
+        setting_frame3.grid(row=2, column=7)
+        setting_frame4.grid(row=3, column=7)
+        Button(self.root,text='修改参数',command=self.update_setting, width = 8).grid(row=4, column=7)
         
         #日志插件初始化
         self.logger = logging.getLogger(__name__)
@@ -186,6 +214,19 @@ class tb_spider(object):
         self.key_status.set(self.key_word)
         self.add_log("关键词已清空")
      
+    def update_setting(self):
+        try:
+            self.setting.short_time=float(self.short_time.get())
+            self.setting.long_time=float(self.long_time.get())
+            self.setting.low_lv=int(self.low_lv.get())
+            self.setting.stop_page=int(self.stop_page.get())
+        except Exception as e:  
+            print(e)
+            self.add_log('参数格式错误，请检查','warning')
+        else:
+            self.add_log('修改参数成功')
+            
+            
     def get_url(self,num):
         url=shop_search_url.format(key_word=self.key_word)+'&s='+str((num-1)*20)
         return url
@@ -226,7 +267,7 @@ class tb_spider(object):
             for i in range(totalPage,0,-1):
                 # if page_count>6:
                 #     break
-                do_sleep()
+                do_sleep(self.setting.short_time)
                 e_input = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
                 e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
                 e_input.clear()
@@ -244,7 +285,7 @@ class tb_spider(object):
                 shopItems=shop_data['mods']['shoplist']['data']['shopItems']
                 rank_count=0
                 for shopItem in shopItems:
-                    rank_res=check_rank(shopItem)
+                    rank_res=check_rank(shopItem,self.setting.low_lv)
                     rank_res['key_word']=self.key_word
                     all_list.append(rank_res)
                     if rank_res['rank']>0:
@@ -259,8 +300,8 @@ class tb_spider(object):
                 page_count+=1
                 self.add_log('已抓取{}页'.format(page_count))
                 if page_count%10==0:
-                    long_sleep()
-                if key_count>=3:
+                    long_sleep(self.setting.long_time)
+                if key_count>=self.setting.stop_page:
                     self.add_log('连续三页未抓取到有用信息，自动退出本次爬虫')
                     break
         except TimeoutException:
@@ -368,7 +409,7 @@ class tb_spider(object):
                     shop_url='https:'+shop_url
                 tb.dr.get(shop_url)
                 tmp_wait =tb.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
-                do_sleep()
+                do_sleep(self.setting.short_time)
                 if check_second(self.dr.page_source):
                     self.second_res_list.append(item)
                 n+=1

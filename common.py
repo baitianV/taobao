@@ -112,6 +112,18 @@ class message(object):
     def __init__(self,msg='',tp='info'):
         self.type=tp
         self.msg=msg
+        
+class spider_setting(object):
+    def __init__(self):
+        #短停时间，默认0.5秒
+        self.short_time=0.5
+        #长停时间，默认5秒
+        self.long_time=5.0
+        #店铺最低等级，默认6，即1钻
+        self.low_lv=6
+        #连续多少页为抓到数据则中断
+        self.stop_page=15
+                
 
 def to_cookies():
     with open('cookies.txt','rb') as f:
@@ -134,7 +146,7 @@ def get_json(text):
     data=json.loads(web_content,strict=False)
     return data
 
-def check_rank(shopItem):
+def check_rank(shopItem,rank_lv=6):
     res={}
     reason=[]
     rank=0
@@ -158,19 +170,16 @@ def check_rank(shopItem):
             seller_rank=re.search(r'seller-rank-\d*',iconClass)
             if seller_rank is not None:
                 seller_rank_num=int(seller_rank.group(0)[12:])
-                if seller_rank_num<3:
-                    reason.append('信誉评分过低')
-                    rank+=1
-                
-            if 'mainAuction' not in shopItem.keys() or len(shopItem['mainAuction'].strip())==0 or shopItem['mainAuction'].strip()=='...':
-                reason.append('店铺主营描述为空')
-                rank+=1
-                
-            rank_msg=json.loads(shopItem['dsrInfo']['dsrStr'])
-            grade=float(rank_msg['mas'])+float(rank_msg['sas'])+float(rank_msg['cas'])
-            if grade<1.0:
-                reason.append('动态评分过低')
-                rank+=1
+                if seller_rank_num>=rank_lv:
+                    if 'mainAuction' not in shopItem.keys() or len(shopItem['mainAuction'].strip())==0 or shopItem['mainAuction'].strip()=='...':
+                        reason.append('店铺主营描述为空')
+                        rank+=1
+     
+                    rank_msg=json.loads(shopItem['dsrInfo']['dsrStr'])
+                    grade=float(rank_msg['mas'])+float(rank_msg['sas'])+float(rank_msg['cas'])
+                    if grade<1.0:
+                        reason.append('动态评分过低')
+                        rank+=1
     except Exception as e:
         print(e)
         rank+=1
@@ -210,11 +219,11 @@ def pj_url(url,params):
         url=url[0:-1]
     return url
 
-def do_sleep():
-    t=random.randint(5,10)*0.1+0.5
+def do_sleep(arg=0.5):
+    t=random.randint(5,10)*0.1+arg
     time.sleep(t)
 
-def long_sleep():
-    t=random.randint(5,10)*0.3+5
+def long_sleep(arg=5):
+    t=random.randint(5,10)*0.3+arg
     time.sleep(t)      
     
