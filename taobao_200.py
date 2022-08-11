@@ -8,10 +8,13 @@ Created on Sun Sep  5 01:09:21 2021
 from tkinter import filedialog
 from tkinter import *
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException,SessionNotCreatedException
+from selenium.common.exceptions import TimeoutException,SessionNotCreatedException,NoSuchElementException
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
+from msedge.selenium_tools import EdgeOptions
+from msedge.selenium_tools import Edge
 from urllib.parse import quote
 import json,pickle,re,time,random,threading,queue
 from bs4 import BeautifulSoup
@@ -52,7 +55,12 @@ class tb_spider(object):
         try:
             self.log_job=self.root.after(100,self.listen_for_result)
             self.init_ui()
-            self.dr=webdriver.Edge('./msedgedriver.exe')
+            #self.dr=webdriver.Edge('./msedgedriver.exe')
+            options = EdgeOptions()
+            options.use_chromium = True
+            options.add_argument("--disable-blink-features=AutomationControlled")
+            self.dr=Edge('./msedgedriver.exe',options=options)
+            #self.dr.maximize_window()
             self.wait=WebDriverWait(self.dr, 8, 0.5)
             #self.root.mainloop()
         except SessionNotCreatedException as e:
@@ -162,13 +170,15 @@ class tb_spider(object):
         
     def quit0(self):
         print('系统退出')
-        if self.dr is not None:
-            self.dr.quit()
+        # if self.dr is not None:
+        #     self.dr.quit()
         self.root.after_cancel(self.log_job)
         self.root.destroy()      
 
     def run(self):
         try:
+            # th=threading.Thread(target=self.root.mainloop())
+            # th.start()
             self.root.mainloop()
         except FileNotFoundError as e:
             print(e)
@@ -274,6 +284,7 @@ class tb_spider(object):
                 e_input.send_keys(i)
                 #e_button.click()
                 self.dr.get(self.get_url(i))
+                self.handle_vertify()
                 self.wait.until(EC.text_to_be_present_in_element((By.CSS_SELECTOR, 'span.current'),str(i)))
                 # for j in val:           
                 #     js="var q=document.documentElement.scrollTop={}".format(j)
@@ -305,7 +316,10 @@ class tb_spider(object):
                     self.add_log('连续三页未抓取到有用信息，自动退出本次爬虫')
                     break
         except TimeoutException:
-            self.add_log("连接超时，请检查网络",'warning')
+            try:
+                self.handle_vertify()
+            except Exception as e:  
+                self.add_log("连接超时，请检查网络",'warning')
         finally:
             self.add_log('爬取完成')
             self.save_result()
@@ -314,7 +328,37 @@ class tb_spider(object):
                 pickle.dump(cookies,f)
             self.input_word.set('')
             self.run_status.set('待机')
-         
+    
+    def handle_vertify(self):
+        i=0
+        while True:
+            i=i+1
+            check=self.dr.find_elements(By.XPATH, '//div[contains(string(), "验证失败")]')
+            if len(check)>0:
+                btn=tb.dr.find_element_by_id("nc_1_wrapper")
+                action = ActionChains(tb.dr)
+                action.click(btn)
+                action.perform()
+            sf=self.dr.find_elements_by_id("J_sufei")
+            sp=self.dr.find_elements_by_id("nc_1_n1z")
+            if len(sf)>0:
+                iframe=sf[0].find_element_by_tag_name("iframe")
+                self.dr.switch_to_frame(iframe)
+                span=self.dr.find_element_by_id("nc_1_n1z")
+            elif len(sp)>0:
+                span=self.dr.find_element_by_id("nc_1_n1z")   
+            else:
+                return
+            action = ActionChains(self.dr)
+            action.click_and_hold(span)
+            for item in [100]*3:
+                action.move_by_offset(item,0)
+            action.release()
+            action.perform()
+            if i>3:
+                break
+    
+    
     def save_result(self):
         file_name=self.key_word.replace(' ', '_')+'.xls'
         file_path='./爬取结果/'+file_name
@@ -407,8 +451,8 @@ class tb_spider(object):
                 shop_url=item['shop_url']
                 if 'https:' not in shop_url:
                     shop_url='https:'+shop_url
-                tb.dr.get(shop_url)
-                tmp_wait =tb.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
+                self.dr.get(shop_url)
+                tmp_wait =self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
                 do_sleep(self.setting.short_time)
                 if check_second(self.dr.page_source):
                     self.second_res_list.append(item)
@@ -416,6 +460,8 @@ class tb_spider(object):
                 self.add_log('已完成第{}个店铺的筛选'.format(n))
         except TimeoutException:
             self.add_log("连接超时，请检查网络",'warning')
+        except Exception as e:
+            print(e)
         finally:
             self.add_log('二筛完成')
             self.save_second()
@@ -474,4 +520,37 @@ if __name__=='__main__':
     # page_source=tb.dr.page_source
     # print(check_second(tb.dr.page_source))
     # # #%%
+#%%
+    #tb.handle_vertify()
+#%%
+    i=0
+    while True:
+        print(i)
+        i=i+1
+        check=tb.dr.find_elements(By.XPATH, '//div[contains(string(), "验证失败")]')
+        if len(check)>0:
+            btn=tb.dr.find_element_by_id("nc_1_wrapper")
+            action = ActionChains(tb.dr)
+            action.click(btn)
+            action.perform()
+        time.sleep(0.3)
+        sf=tb.dr.find_elements_by_id("J_sufei")
+        sp=tb.dr.find_elements_by_id("nc_1_n1z")
+        if len(sf)>0:
+            iframe=sf[0].find_element_by_tag_name("iframe")
+            tb.dr.switch_to_frame(iframe)
+            span=tb.dr.find_element_by_id("nc_1_n1z")
+        elif len(sp)>0:
+            span=tb.dr.find_element_by_id("nc_1_n1z")
+        else:
+            break
+        action = ActionChains(tb.dr)
+        action.click_and_hold(span)
+        for item in [100]*3:
+            action.move_by_offset(item,0)
+            #time.sleep(0.05)
+        action.release()
+        action.perform()
+        if i>3:
+            break
 #%%
