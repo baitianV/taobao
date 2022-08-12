@@ -26,7 +26,8 @@ head_2=[
     {'title':'是否有消保','width':10,'data':'xiaobao'},
     {'title':'不合规等级','width':10,'data':'rank'},
     {'title':'不合规理由','width':50,'data':'reason'},
-    {'title':'关键词','width':50,'data':'key_word'}
+    {'title':'关键词','width':50,'data':'key_word'},
+    {'title':'保证金','width':50,'data':'money'},
 ]
 def wt_excel(road,content_list,head=head_1,mode=1):
     res={}
@@ -116,9 +117,9 @@ class message(object):
 class spider_setting(object):
     def __init__(self):
         #短停时间，默认0.5秒
-        self.short_time=0.5
+        self.short_time=0.1
         #长停时间，默认5秒
-        self.long_time=5.0
+        self.long_time=1.0
         #店铺最低等级，默认6，即1钻
         self.low_lv=6
         #连续多少页为抓到数据则中断
@@ -207,9 +208,9 @@ def check_second(text):
     if corp is None and person is None:
         flag_2=True
     if flag_1 and flag_2:
-        return True
+        return num
     print(flag_1,',',flag_2)
-    return False
+    return 0
     
     
 def pj_url(url,params):
@@ -220,10 +221,10 @@ def pj_url(url,params):
     return url
 
 def do_sleep(arg=0.5):
-    t=random.randint(5,10)*0.1+arg
+    t=random.randint(1,3)*0.1+arg
     time.sleep(t)
 
 def long_sleep(arg=5):
-    t=random.randint(5,10)*0.3+arg
+    t=random.randint(1,3)*0.1+arg
     time.sleep(t)      
     

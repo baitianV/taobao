@@ -16,7 +16,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from msedge.selenium_tools import EdgeOptions
 from msedge.selenium_tools import Edge
 from urllib.parse import quote
-import json,pickle,re,time,random,threading,queue
+import json,pickle,re,time,random,threading,queue,traceback
 from bs4 import BeautifulSoup
 
 from tklog.tklog import *
@@ -61,7 +61,7 @@ class tb_spider(object):
             options.add_argument("--disable-blink-features=AutomationControlled")
             self.dr=Edge('./msedgedriver.exe',options=options)
             #self.dr.maximize_window()
-            self.wait=WebDriverWait(self.dr, 8, 0.5)
+            self.wait=WebDriverWait(self.dr, 4, 0.5)
             #self.root.mainloop()
         except SessionNotCreatedException as e:
             print(e)
@@ -198,7 +198,7 @@ class tb_spider(object):
     def check_login(self):
         page_source=self.dr.page_source
         bs = BeautifulSoup(page_source,"html.parser")
-        flag=bs.find_all('div',class_='s-name')
+        flag=bs.find_all('a',class_='site-nav-login-info-nick')
         
         if len(flag) != 0:
             return True
@@ -254,6 +254,28 @@ class tb_spider(object):
         else:
             self.add_log('请先登录后，刷新，再点击开始','warning')      
     
+
+        return False
+    
+    def check_wait(self,method):
+        def check_find(driver):
+                con1 = EC.presence_of_element_located((By.XPATH, '//span[contains(string(), "Taobao.com")]'))
+                con2 = EC.presence_of_element_located((By.XPATH, '//em[contains(string(), "Taobao.com")]'))
+                if con1 or con2:
+                    return True
+                else:
+                    return False
+        try:
+            res=self.wait.until(method)
+        except TimeoutException as e:
+            e_check =self.wait.until(check_find)
+            if e_check:
+                do_sleep(self.setting.short_time)
+                self.handle_vertify()
+            
+        finally:
+            return self.wait.until(method)        
+    
     #爬虫核心代码    
     def spider_core(self):
         aa=0
@@ -264,8 +286,9 @@ class tb_spider(object):
             self.add_log('开始本次爬虫')
             key_url=shop_search_url.format(key_word=self.key_word)
             self.dr.get(key_url)
-            e_input =self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
-            e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
+            
+            e_input =self.check_wait(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
+            e_button = self.check_wait(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
             #page_source = self.dr.find_element_by_xpath("//*").get_attribute("outerHTML")
             page_source=self.dr.page_source
             page_json=get_json(page_source)
@@ -278,14 +301,13 @@ class tb_spider(object):
                 # if page_count>6:
                 #     break
                 do_sleep(self.setting.short_time)
-                e_input = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
-                e_button = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
+                e_input = self.check_wait(EC.presence_of_element_located((By.CSS_SELECTOR, "input.input.J_Input")))
+                e_button = self.check_wait(EC.presence_of_element_located((By.CSS_SELECTOR, "span.btn.J_Submit")))
                 e_input.clear()
                 e_input.send_keys(i)
                 #e_button.click()
                 self.dr.get(self.get_url(i))
-                self.handle_vertify()
-                self.wait.until(EC.text_to_be_present_in_element((By.CSS_SELECTOR, 'span.current'),str(i)))
+                self.check_wait(EC.text_to_be_present_in_element((By.CSS_SELECTOR, 'span.current'),str(i)))
                 # for j in val:           
                 #     js="var q=document.documentElement.scrollTop={}".format(j)
                 #     st=random.randint(5,10)*0.1
@@ -315,11 +337,12 @@ class tb_spider(object):
                 if key_count>=self.setting.stop_page:
                     self.add_log('连续三页未抓取到有用信息，自动退出本次爬虫')
                     break
-        except TimeoutException:
-            try:
+        except TimeoutException as e:
+            traceback.print_exc()
+            e_check =self.wait.until(check_find)
+            if e_check:
                 self.handle_vertify()
-            except Exception as e:  
-                self.add_log("连接超时，请检查网络",'warning')
+            self.add_log("连接超时，请检查网络",'warning')
         finally:
             self.add_log('爬取完成')
             self.save_result()
@@ -349,6 +372,8 @@ class tb_spider(object):
                 span=self.dr.find_element_by_id("nc_1_n1z")   
             else:
                 return
+            self.add_log('验证解锁中')
+            print(len(sf),len(sp))
             action = ActionChains(self.dr)
             action.click_and_hold(span)
             for item in [100]*3:
@@ -454,7 +479,9 @@ class tb_spider(object):
                 self.dr.get(shop_url)
                 tmp_wait =self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.shop-summary.J_TShopSummary")))
                 do_sleep(self.setting.short_time)
-                if check_second(self.dr.page_source):
+                money=check_second(self.dr.page_source)
+                if money>0:
+                    item['money']=money
                     self.second_res_list.append(item)
                 n+=1
                 self.add_log('已完成第{}个店铺的筛选'.format(n))
@@ -521,36 +548,58 @@ if __name__=='__main__':
     # print(check_second(tb.dr.page_source))
     # # #%%
 #%%
-    #tb.handle_vertify()
+    # def check_login():
+    #     page_source=self.dr.page_source
+    #     bs = BeautifulSoup(page_source,"html.parser")
+    #     flag=bs.find_all('a',class_='site-nav-login-info-nick')
+        
+    #     if len(flag) != 0:
+    #         print(True)
+    #     else:
+    #         print(False)
+            
+    # tb.spider_core()
+    # def check_find(driver):
+    #     con1 = EC.presence_of_element_located((By.XPATH, '//span[contains(string(), "Taobao.com")]'))
+    #     con2 = EC.presence_of_element_located((By.XPATH, '//em[contains(string(), "Taobao.com")]'))
+    #     if con1 or con2:
+    #         return True
+    #     else:
+    #         return False
+
+    # e_check =tb.wait.until(check_find)
+    # print(e_check)
+    # tb.handle_vertify()
 #%%
-    i=0
-    while True:
-        print(i)
-        i=i+1
-        check=tb.dr.find_elements(By.XPATH, '//div[contains(string(), "验证失败")]')
-        if len(check)>0:
-            btn=tb.dr.find_element_by_id("nc_1_wrapper")
-            action = ActionChains(tb.dr)
-            action.click(btn)
-            action.perform()
-        time.sleep(0.3)
-        sf=tb.dr.find_elements_by_id("J_sufei")
-        sp=tb.dr.find_elements_by_id("nc_1_n1z")
-        if len(sf)>0:
-            iframe=sf[0].find_element_by_tag_name("iframe")
-            tb.dr.switch_to_frame(iframe)
-            span=tb.dr.find_element_by_id("nc_1_n1z")
-        elif len(sp)>0:
-            span=tb.dr.find_element_by_id("nc_1_n1z")
-        else:
-            break
-        action = ActionChains(tb.dr)
-        action.click_and_hold(span)
-        for item in [100]*3:
-            action.move_by_offset(item,0)
-            #time.sleep(0.05)
-        action.release()
-        action.perform()
-        if i>3:
-            break
+    # i=0
+    # while True:
+    #     print(i)
+    #     i=i+1
+    #     check=tb.dr.find_elements(By.XPATH, '//div[contains(string(), "验证失败")]')
+    #     if len(check)>0:
+    #         btn=tb.dr.find_element_by_id("nc_1_wrapper")
+    #         action = ActionChains(tb.dr)
+    #         action.click(btn)
+    #         action.perform()
+    #     time.sleep(0.3)
+    #     sf=tb.dr.find_elements_by_id("J_sufei")
+    #     sp=tb.dr.find_elements_by_id("nc_1_n1z")
+    #     print(len(sf),len(sp))
+    #     if len(sf)>0:
+    #         iframe=sf[0].find_element_by_tag_name("iframe")
+    #         tb.dr.switch_to_frame(iframe)
+    #         span=tb.dr.find_element_by_id("nc_1_n1z")
+    #     elif len(sp)>0:
+    #         span=tb.dr.find_element_by_id("nc_1_n1z")
+    #     else:
+    #         break
+    #     action = ActionChains(tb.dr)
+    #     action.click_and_hold(span)
+    #     for item in [100]*3:
+    #         action.move_by_offset(item,0)
+    #         #time.sleep(0.05)
+    #     action.release()
+    #     action.perform()
+    #     if i>3:
+    #         break
 #%%
