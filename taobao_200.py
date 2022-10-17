@@ -52,6 +52,7 @@ class tb_spider(object):
         self.second_list=[]
         self.second_res_list=[]
         self.setting=spider_setting()
+
         try:
             self.log_job=self.root.after(100,self.listen_for_result)
             self.init_ui()
@@ -154,6 +155,7 @@ class tb_spider(object):
         #第四层
         Button(self.root,text='一筛',command=self.start_spider, width = 8).grid(row=3, column=0,columnspan=1)
         Button(self.root,text='保存',command=self.save_result, width = 8).grid(row=3, column=1,columnspan=1)
+        Button(self.root,text='暂停',command=self.save_result, width = 8).grid(row=3, column=2,columnspan=1)
         
         #第五层
         #文件选择框
@@ -322,8 +324,7 @@ class tb_spider(object):
                     rank_res['key_word']=self.key_word
                     all_list.append(rank_res)
                     if rank_res['rank']>0:
-                        if rank_res['type']=='淘宝':
-                            self.tb_rank_list.append(rank_res)
+                        self.tb_rank_list.append(rank_res)
                         rank_count+=1
                 if rank_count==0:
                     key_count+=1
@@ -339,9 +340,6 @@ class tb_spider(object):
                     break
         except TimeoutException as e:
             traceback.print_exc()
-            e_check =self.wait.until(check_find)
-            if e_check:
-                self.handle_vertify()
             self.add_log("连接超时，请检查网络",'warning')
         finally:
             self.add_log('爬取完成')
@@ -358,10 +356,11 @@ class tb_spider(object):
             i=i+1
             check=self.dr.find_elements(By.XPATH, '//div[contains(string(), "验证失败")]')
             if len(check)>0:
-                btn=tb.dr.find_element_by_id("nc_1_wrapper")
-                action = ActionChains(tb.dr)
+                btn=self.dr.find_element_by_id("nc_1_wrapper")
+                action = ActionChains(self.dr)
                 action.click(btn)
                 action.perform()
+                #time.sleep(0.3)
             sf=self.dr.find_elements_by_id("J_sufei")
             sp=self.dr.find_elements_by_id("nc_1_n1z")
             if len(sf)>0:
@@ -376,7 +375,7 @@ class tb_spider(object):
             print(len(sf),len(sp))
             action = ActionChains(self.dr)
             action.click_and_hold(span)
-            for item in [100]*3:
+            for item in [30]*10:
                 action.move_by_offset(item,0)
             action.release()
             action.perform()
@@ -547,59 +546,4 @@ if __name__=='__main__':
     # page_source=tb.dr.page_source
     # print(check_second(tb.dr.page_source))
     # # #%%
-#%%
-    # def check_login():
-    #     page_source=self.dr.page_source
-    #     bs = BeautifulSoup(page_source,"html.parser")
-    #     flag=bs.find_all('a',class_='site-nav-login-info-nick')
-        
-    #     if len(flag) != 0:
-    #         print(True)
-    #     else:
-    #         print(False)
-            
-    # tb.spider_core()
-    # def check_find(driver):
-    #     con1 = EC.presence_of_element_located((By.XPATH, '//span[contains(string(), "Taobao.com")]'))
-    #     con2 = EC.presence_of_element_located((By.XPATH, '//em[contains(string(), "Taobao.com")]'))
-    #     if con1 or con2:
-    #         return True
-    #     else:
-    #         return False
-
-    # e_check =tb.wait.until(check_find)
-    # print(e_check)
-    # tb.handle_vertify()
-#%%
-    # i=0
-    # while True:
-    #     print(i)
-    #     i=i+1
-    #     check=tb.dr.find_elements(By.XPATH, '//div[contains(string(), "验证失败")]')
-    #     if len(check)>0:
-    #         btn=tb.dr.find_element_by_id("nc_1_wrapper")
-    #         action = ActionChains(tb.dr)
-    #         action.click(btn)
-    #         action.perform()
-    #     time.sleep(0.3)
-    #     sf=tb.dr.find_elements_by_id("J_sufei")
-    #     sp=tb.dr.find_elements_by_id("nc_1_n1z")
-    #     print(len(sf),len(sp))
-    #     if len(sf)>0:
-    #         iframe=sf[0].find_element_by_tag_name("iframe")
-    #         tb.dr.switch_to_frame(iframe)
-    #         span=tb.dr.find_element_by_id("nc_1_n1z")
-    #     elif len(sp)>0:
-    #         span=tb.dr.find_element_by_id("nc_1_n1z")
-    #     else:
-    #         break
-    #     action = ActionChains(tb.dr)
-    #     action.click_and_hold(span)
-    #     for item in [100]*3:
-    #         action.move_by_offset(item,0)
-    #         #time.sleep(0.05)
-    #     action.release()
-    #     action.perform()
-    #     if i>3:
-    #         break
 #%%
