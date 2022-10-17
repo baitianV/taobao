@@ -119,9 +119,9 @@ class spider_setting(object):
         #短停时间，默认0.5秒
         self.short_time=0.1
         #长停时间，默认5秒
-        self.long_time=1.0
+        self.long_time=0.2
         #店铺最低等级，默认6，即1钻
-        self.low_lv=6
+        self.low_lv=0
         #连续多少页为抓到数据则中断
         self.stop_page=15
                 
@@ -166,23 +166,45 @@ def check_rank(shopItem,rank_lv=6):
             for i in shopItem['icons']:
                 if i['title']=='卖家承诺消费者保障服务':
                     res['xiaobao']='有'
-        if res['type']=='淘宝' and res['xiaobao']=='有':
+        if res['xiaobao']=='有' and res['type']=='淘宝':
             iconClass=shopItem['shopIcon']['iconClass']
             seller_rank=re.search(r'seller-rank-\d*',iconClass)
+            seller_rank_num=0
             if seller_rank is not None:
                 seller_rank_num=int(seller_rank.group(0)[12:])
-                if seller_rank_num>=rank_lv:
-                    if 'mainAuction' not in shopItem.keys() or len(shopItem['mainAuction'].strip())==0 or shopItem['mainAuction'].strip()=='...':
-                        reason.append('店铺主营描述为空')
-                        rank+=1
-     
-                    rank_msg=json.loads(shopItem['dsrInfo']['dsrStr'])
-                    grade=float(rank_msg['mas'])+float(rank_msg['sas'])+float(rank_msg['cas'])
-                    if grade<1.0:
-                        reason.append('动态评分过低')
-                        rank+=1
+            if seller_rank_num>=rank_lv:
+                # if 'mainAuction' not in shopItem.keys() or len(shopItem['mainAuction'].strip())==0 or shopItem['mainAuction'].strip()=='...':
+                #     reason.append('店铺主营描述为空')
+                #     rank+=1
+ 
+                rank_msg=json.loads(shopItem['dsrInfo']['dsrStr'])
+                grade=float(rank_msg['mas'])+float(rank_msg['sas'])+float(rank_msg['cas'])
+                if grade == 0.0:
+                    reason.append('动态评分为0')
+                    rank+=1
+                if grade<1.0:
+                    reason.append('动态评分过低')
+                    rank+=1
+                if 'auctionsInshop' not in shopItem or len(shopItem['auctionsInshop'])<4:
+                    reason.append('商品数量少于4')
+                    rank+=1
+        else:
+            # if 'mainAuction' not in shopItem.keys() or len(shopItem['mainAuction'].strip())==0 or shopItem['mainAuction'].strip()=='...':
+            #     reason.append('店铺主营描述为空')
+            #     rank+=1
+            rank_msg=json.loads(shopItem['dsrInfo']['dsrStr'])
+            grade=float(rank_msg['mas'])+float(rank_msg['sas'])+float(rank_msg['cas'])
+            if grade == 0.0:
+                reason.append('动态评分为0')
+                rank+=1
+            if grade<1.0:
+                reason.append('动态评分过低')
+                rank+=1
+            if 'auctionsInshop' not in shopItem or len(shopItem['auctionsInshop'])<4:
+                reason.append('商品数量少于4')
+                rank+=1
     except Exception as e:
-        print(e)
+        print('207:',e)
         rank+=1
         reason.append('数据缺失')
     finally:
@@ -221,10 +243,12 @@ def pj_url(url,params):
     return url
 
 def do_sleep(arg=0.5):
-    t=random.randint(1,3)*0.1+arg
+    #t=random.randint(1,3)*0.1+arg
+    t=arg
     time.sleep(t)
 
 def long_sleep(arg=5):
-    t=random.randint(1,3)*0.1+arg
+    #t=random.randint(1,3)*0.1+arg
+    t=arg
     time.sleep(t)      
     
